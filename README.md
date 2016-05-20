@@ -17,13 +17,14 @@ Navigate to the project's thread [with this link][3].
 ---
 
 ## Players' Guide
-(This guide assumes you can download files, unpackage packaged files, launching executables, and can do basic file modifications, such as copying, pasting, and deleting.)
+(This guide assumes you can download files, unpackage packaged files, launch executables, and can do basic file modifications, such as copying, pasting, and deleting.)
 
 1. Obtain the [game][1].
 2. Download the Project's latest version from the [release menu](https://github.com/LordCerapter/D4FS/releases).
 3. Back up the game's original files.
-4. In the game's files, remove the `data` and the `raw` folders.
+4. In the game's files, remove the `raw` folder.
 5. Move, or copy and paste the downloaded Project's `data` and `raw` folders into the game's folder, where the original folders used to be.
+  + You must overwrite the `data` folder.
   + Now, the game will use the project's files.
 6. Launch the game.
 Additionally:
