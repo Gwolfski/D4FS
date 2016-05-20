@@ -10,7 +10,7 @@ Again, please note that is not a hard prerequisite. You may enjoy the game witho
 
 The Modders, on the other hand, add more to the project by creating new creatures, stones, buildings, items, etc. It is beneficial for them to know about basic Git(hub) usage, however it is not required. If they had created something, but cannot use Git(hub), they may ask [Cerapter](http://www.bay12forums.com/smf/index.php?action=profile;u=107094) on the Bay12Forums, [LordCerapter](https://github.com/LordCerapter) on GitHub (both being the same person), or any modders currently participating in the project, and they will upload in their stead.
 
-Navigate to the project's thread [with this link][2].
+Navigate to the project's thread [with this link][3].
 
 ---
 
@@ -32,6 +32,35 @@ Additionally:
 ---
 
 ## Modders' Guide
+We have several standards that we require you to follow. These are not overly tyrannical ones (at least, we hope so), but rather, are implemented so that the RAWs (and DATA files) are easy to read and modify. You may check these on the Project's [wiki](https://github.com/LordCerapter/D4FS/wiki).
+
+### If you do not desire to use Git:
+
+1. Proceed as you would have if you were a Player.
+2. Make any changes you wish.
+3. Package the file, upload it somewhere.
+  + The [Dwarf Fortress File Depot](http://dffd.bay12games.com/index.php) is generally a good place to keep things such as this.
+4. Send your package to either:
+  + [Cerapter](http://www.bay12forums.com/smf/index.php?action=profile;u=107094) on the Bay12Forums.
+  + [LordCerapter](https://github.com/LordCerapter).
+  + [Any contributor](https://github.com/LordCerapter/D4FS/graphs/contributors).
+  + [Any Modder][3] in the forum thread. (Assuming they know how to use Git.)
+5. We will deal with the rest.
+
+### If you are using Github:
+
+1. Fork the project onto your own Github page.
+  + You may perform this by navigating to the Project's Github page (you are most likely here), and pressing the 'Fork' button on the upper right corner.
+  + Forking means that you want a copy of the Project to play around in.
+2. Make the changes. You do not need any unconventional knowledge here: just download your own fork, fiddle around with it, then use the 'Upload files' button to update.
+3. After you are done, submit a 'Pull request' on the Project's Github page, using the 'New pull request' button.
+  + To pull is to implement all the changes into the master branch, from another branch or fork.
+  + A pull request, thus, is a way to ask the Project's lead to do that with your fork.
+  + Please note that you will most likely want to press the 'compare across forks' link to be able to choose your own fork.
+
+## If you are using Git:
+
+0. To be written.
 
 ---
 
@@ -43,3 +72,4 @@ Additionally:
 
 [1]: http://www.bay12games.com/dwarves/
 [2]: http://www.bay12forums.com/smf/index.php
+[3]: http://www.bay12forums.com/smf/index.php "The Project's Forum Thread"
