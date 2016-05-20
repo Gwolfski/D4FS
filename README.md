@@ -1,4 +1,6 @@
 # Dwarf 4tress From Scratch
+### Download: from the [release menu](https://github.com/LordCerapter/D4FS/releases).
+
 Dwarf 4tress From Scratch (pronounced like 'Dwarf Fortress From Scratch') is the fourth iteration of the community Bay12Forums project, 'Dwarf Fortress From Scratch', based on the video game 'Slaves to Armok: God of Blood - Chapter II: Dwarf Fortress', or, as more commonly known, 'Dwarf Fortress'.
 
 If you are unfamiliar with the game, you may download it [here][1]. After that, you may partake in this project by first registering on the [official forums][2]. This is, of course, not a hard prerequisite -- however, we would like to know who is developing for the project.
@@ -18,7 +20,7 @@ Navigate to the project's thread [with this link][3].
 (This guide assumes you can download files, unpackage packaged files, launching executables, and can do basic file modifications, such as copying, pasting, and deleting.)
 
 1. Obtain the [game][1].
-2. Download the Project's latest version from the [master branch](https://github.com/LordCerapter/D4FS/archive/master.zip).
+2. Download the Project's latest version from the [release menu](https://github.com/LordCerapter/D4FS/releases).
 3. Back up the game's original files.
 4. In the game's files, remove the `data` and the `raw` folders.
 5. Move, or copy and paste the downloaded Project's `data` and `raw` folders into the game's folder, where the original folders used to be.
