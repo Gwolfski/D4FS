@@ -1,0 +1,18 @@
+interaction_material_emission
+
+[OBJECT:INTERACTION] ## this one is so close to hardcoded there's no point in just rewriting it with different words
+
+[INTERACTION:MATERIAL_EMISSION]
+	[I_SOURCE:CREATURE_ACTION]
+	[I_TARGET:A:MATERIAL]
+		[IT_MATERIAL:CONTEXT_MATERIAL]
+	[I_TARGET:B:LOCATION]
+		[IT_LOCATION:CONTEXT_LOCATION]
+	[I_TARGET:C:LOCATION]
+		[IT_LOCATION:CONTEXT_LOCATION]
+		[IT_MANUAL_INPUT:target]
+	[I_EFFECT:MATERIAL_EMISSION]
+		[IE_TARGET:A]
+		[IE_TARGET:B]
+		[IE_TARGET:C]
+		[IE_IMMEDIATE]

@@ -1,0 +1,8 @@
+This is a list of creature classes, and a small description of what fits under the class if it isn't obvious. Just use any  that fit your creature, or add ones you use that aren't on here. Thanks ^-^
+
+EXTRADIMENSIONAL - From between planes
+WORLDLY - From this plane
+
+MAGIC_WEAK - Vulnerable to magic syndromes
+MAGIC_RESIST - Resistant to magic syndromes
+MAGIC_IMMUNE - Immune to magic syndromes
