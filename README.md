@@ -59,8 +59,32 @@ We have several standards that we require you to follow. These are not overly ty
   + Please note that you will most likely want to press the 'compare across forks' link to be able to choose your own fork.
 
 ### If you are using Git:
+This guide assumes you are using a Git manager with a graphical user interface. In fact, this tutorial was written with [GitKraken](https://www.gitkraken.com/) in mind, however, most of this writing should be true for all Git managers.
 
-1. To be written.
+1. Open up your favourite Git manager.
+  + Also, you might want to make a folder in which you will keep your project clones (more on that later). Naming it something like "git" should suffice.
+2. Clone a project.
+  + Cloning means having a local copy of the project on your computer.
+3. You will most likely be asked WHERE TO clone it. This is just the place you want to put the clone into. Choose the previously made 'git' folder.
+4. Then you will be asked an URL. This asks what do you want to clone. Input this:
+  + https://github.com/LordCerapter/D4FS.git
+5. If at any point, your Git Manager asks for a name and an e-mail, input the ones you used for Github registration.
+  + Later on, it will also ask your Github password. It needs that to log-in to Github to be able to modify the project.
+6. Search for a 'pull' button or command and use it.
+  + This will request all the current files in the Project, and download it onto your computer.
+7. Play around with the files on your computer, modifying what you want.
+8. After that:
+  + Your Git manager might noticed you modifying the local files and alerted you of "unstaged files".
+  + If it does not, see later.
+9. If needed, select all the files you have modified and 'stage' them.
+  + If you have a 'stage all changes' button, use that.
+  + Staging does not "upload" anything yet to the Project. It is merely a "plan" of sorts, a plan of what you will later commit.
+10. Commit your changes.
+  + Committing means you finalise your modifications and send it to the Project's lead, who will decide on its inclusion.
+  + You will be asked to provide a Commit Message.
+  + For summary, write a short message about what changes you have made.
+  + For description, write about your changes in detail.
+  + Though not required, please also mark who you are on the Bay12Forums.
 
 ---
 
