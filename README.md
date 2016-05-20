@@ -16,6 +16,7 @@ Navigate to the project's thread [with this link][2].
 
 ## Players' Guide
 (This guide assumes you can download files, unpackage packaged files, launching executables, and can do basic file modifications, such as copying, pasting, and deleting.)
+
 1. Obtain the [game][1].
 2. Download the Project's latest version from the [master branch](https://github.com/LordCerapter/D4FS/archive/master.zip).
 3. Back up the game's original files.
