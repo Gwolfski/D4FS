@@ -58,9 +58,9 @@ We have several standards that we require you to follow. These are not overly ty
   + A pull request, thus, is a way to ask the Project's lead to do that with your fork.
   + Please note that you will most likely want to press the 'compare across forks' link to be able to choose your own fork.
 
-## If you are using Git:
+### If you are using Git:
 
-0. To be written.
+1. To be written.
 
 ---
 
