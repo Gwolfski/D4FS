@@ -86,6 +86,8 @@ This guide assumes you are using a Git manager with a graphical user interface. 
   + For description, write about your changes in detail.
   + Though not required, please also mark who you are on the Bay12Forums.
 
+If you are making larger modifications, you may also want to make a branch.
+
 ---
 
 ## Credits
