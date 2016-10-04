@@ -1,0 +1,6 @@
+For [CONTEXT:NUMBER] of my years, I have been rescuing lost children and bringing them back to [CONTEXT:PLACE:TRANS_NAME].
+I run an orphanage in [CONTEXT:PLACE:TRANS_NAME], and have done so for [CONTEXT:NUMBER] years.
+I am a teacher. I teach children the ways of the world, and a better life. I have tought for [CONTEXT:NUMBER] years. 
+I take children from undeserving parents, and take them to [CONTEXT:PLACE:TRANS_NAME]. I have done so [CONTEXT:NUMBER] years.
+I save children from poverty, and I take them to [CONTEXT:PLACE:TRANS_NAME]. I have done so [CONTEXT:NUMBER] years
+I am a cheesemaker, and have been one for [CONTEXT:NUMBER] years.

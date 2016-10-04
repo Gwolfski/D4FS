@@ -1,0 +1,5 @@
+I seek treasures and bring them back to [CONTEXT:PLACE:TRANS_NAME] and have done so for [CONTEXT:NUMBER] of the years of my life.
+I am a mighty warrior, thanks for noticing. I have been so awesome for [CONTEXT:NUMBER] years
+I am a Teacher in Economics and Mechanical Contraptions. I have tought for [CONTEXT:NUMBER].
+I have been a great hero in [CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] years.
+I am a legendary cheesemaker. I have been one for [CONTEXT:NUMBER] years.

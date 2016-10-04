@@ -1,0 +1,10 @@
+I seek treasures and bring them back to [CONTEXT:PLACE:TRANS_NAME].
+I am a mighty warrior, thanks for noticing.
+I am a Teacher in Economics and Mechanical Contraptions.
+I am a great hero in [CONTEXT:PLACE:TRANS_NAME].
+I am a legendary cheesemaker.
+I am a famous gelder.
+I do some odd jobs.
+I take from the rich, and give to me.
+I am a clothier.
+I am a fletcher.

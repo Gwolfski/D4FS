@@ -1,0 +1,5 @@
+Hello, [AUDIENCE:RACE].  I am [SPEAKER:TRANS_NAME].
+What! what did you say? I can't understand your language, [AUDIENCE:RACE]. I am [SPEAKER:TRANS_NAME].
+All [AUDIENCE:RACE] will soon bow before me, the great [SPEAKER:TRANS_NAME]!
+Never trust a [AUDIENCE:RACE]!  Wait, you are a [AUDIENCE:RACE]? Sorry. I am [SPEAKER:TRANS_NAME].
+[SPEAKER:TRANS_NAME] is my name, don't wear it out.

@@ -1,0 +1,9 @@
+Ah, hello.  I'm [SPEAKER:TRANS_NAME].
+[SPEAKER:TRANS_NAME] is my name, don't wear it out.
+Hi there friend. my name is [SPEAKER:TRANS_NAME]
+You are not a vampire, correct? If you are not a vampire, my name is [SPEAKER:TRANS_NAME].
+Good evening. I vant to drink your- I mean I vant to know your name. my name is Count [SPEAKER:TRANS_NAME].
+Greetings and salutations, good sir knight. I am known as [SPEAKER:TRANS_NAME].
+No, stay away! I don't wish to harm you! I am [SPEAKER:TRANS_NAME] the were-donkey!
+Flee for you miserable life, For I am [SPEAKER:TRANS_NAME]!
+I am [SPEAKER:TRANS_NAME], [AUDIENCE:FIRST_NAME].

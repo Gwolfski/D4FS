@@ -1,0 +1,12 @@
+Greetings.  My name is [SPEAKER:TRANS_NAME].
+Hi there friend. my name is [SPEAKER:TRANS_NAME]
+You are not a vampire, correct? If you are not a vampire, my name is [SPEAKER:TRANS_NAME].
+I am [SPEAKER:TRANS_NAME]. who are you?
+Hello, Do you know where [SPEAKER:TRANS_NAME] is?
+Good evening. I vant to drink your- I mean I vant to know your name. my name is Count [SPEAKER:TRANS_NAME].
+Where is the Precious? Thieves, they stole it from us! I must get it back!  [SPEAKER:TRANS_NAME] , [SPEAKER:TRANS_NAME].
+Greetings and salutations, good sir knight. I am known as [SPEAKER:TRANS_NAME].
+I am [SPEAKER:TRANS_NAME]. what is your name?
+No, stay away! I don't wish to harm you! I am [SPEAKER:TRANS_NAME] the were-elephant!
+Flee for you miserable life, For I am [SPEAKER:TRANS_NAME]!
+I am become death, the destroyer of worlds!
