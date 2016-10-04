@@ -46,6 +46,23 @@ digger, weapon,ammo,armor,helm,gloves,shoes,pants,shield,siegeammo,trapcomp,toy,
 [ATTACK:EDGE:29000:8500:hack:hacks:NO_SUB:80000]
 	[ATTACK_PREPARE_AND_RECOVER:5:5]
 
+
+[ITEM_WEAPON:TRIDENT_PIKACHU]
+[NAME:trident:tridents]
+[SIZE:600]
+[SKILL:SPEAR]
+[TWO_HANDED:75100]
+[MINIMUM_SIZE:65020]
+[MATERIAL_SIZE:4]
+[ATTACK:EDGE:15:9000:stab:stabs:middle spear point:1900]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
+[ATTACK:EDGE:7:9000:stab:stabs:left spear point:1700]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
+[ATTACK:EDGE:7:9000:stab:stabs:right spear point:1700]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
+[ATTACK:BLUNT:10000:6000:bash:bashes:shaft:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
+
 [ITEM_WEAPON:BOARSPEAR_PIKACHU]
 [NAME:boar spear:boar spears]
 [SIZE:750]
@@ -137,19 +154,19 @@ digger, weapon,ammo,armor,helm,gloves,shoes,pants,shield,siegeammo,trapcomp,toy,
 [TRAINING]
 
 
-[ITEM_WEAPON:ITEM_WEAPON_CLUB]
-[NAME:club:clubs]
+[ITEM_WEAPON:CLUB_PIKACHU]
+[NAME:cudgel:cudgels]
 [SIZE:200]
 [SKILL:MACE]
 [CAN_STONE]
 [TWO_HANDED:25500]
 [MINIMUM_SIZE:5000]
 [MATERIAL_SIZE:1]
-[ATTACK:BLUNT:10:200:bash:bashes:NO_SUB:1950]
+[ATTACK:BLUNT:10000:200:bash:bashes:NO_SUB:1950]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:BOW_PIKACHU]
-[NAME:bow:bows]
+[NAME:longbow:longbows]
 [SIZE:300]
 [SKILL:SWORD]
 [RANGED:BOW:ARROW]
@@ -220,7 +237,7 @@ digger, weapon,ammo,armor,helm,gloves,shoes,pants,shield,siegeammo,trapcomp,toy,
 
 
 [ITEM_AMMO:THROWSTAR_PIKACHU]
-[NAME:shuriken]
+[NAME:shuriken:shuriken]
 [SIZE:100]
 [CLASS:THROW]
 [ATTACK:EDGE:1:1100:hit:hits:NO_SUB:1000]
@@ -228,12 +245,18 @@ digger, weapon,ammo,armor,helm,gloves,shoes,pants,shield,siegeammo,trapcomp,toy,
 
 
 [ITEM_AMMO:THROWKNIFE_PIKACHU]
-[NAME:throwing knife]
+[NAME:throwing knife:throwing knives]
 [SIZE:200]
 [CLASS:THROW]
 [ATTACK:EDGE:5:1000:stab:stabs:NO_SUB:1000]
 	[ATTACK_PREPARE_AND_RECOVER:3:2]
 
+[ITEM_AMMO:JAVELIN_PIKACHU]
+[NAME:javelin:javelins]
+[SIZE:380]
+[CLASS:THROW]
+[ATTACK:EDGE:20:10000:stab:stabs:NO_SUB:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_AMMO:THOWAXE_PIKACHU]
 [NAME:throwing axe:throwing axes]
@@ -241,19 +264,6 @@ digger, weapon,ammo,armor,helm,gloves,shoes,pants,shield,siegeammo,trapcomp,toy,
 [CLASS:THROW]
 [ATTACK:EDGE:40000:6000:hack:hacks:NO_SUB:1250]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
-[ATTACK:EDGE:40000:6000:hack:hacks:NO_SUB:1250]
-	[ATTACK_PREPARE_AND_RECOVER:3:3]
-[ATTACK:EDGE:40000:6000:hack:hacks:NO_SUB:1250]
-	[ATTACK_PREPARE_AND_RECOVER:3:3]
-[ATTACK:EDGE:40000:6000:hack:hacks:NO_SUB:1250]
-	[ATTACK_PREPARE_AND_RECOVER:3:3]
-[ATTACK:EDGE:40000:6000:hack:hacks:NO_SUB:1250]
-	[ATTACK_PREPARE_AND_RECOVER:3:3]
-[ATTACK:BLUNT:40000:6000:slap:slaps:flat:1250]
-	[ATTACK_PREPARE_AND_RECOVER:3:3]
-[ATTACK:BLUNT:100:1000:strike:strikes:pommel:1000]
-	[ATTACK_PREPARE_AND_RECOVER:3:3]
-
 
 [ITEM_ARMOR:ITEM_ARMOR_LEATHER_PIKACHU]
 [NAME:cuirass:cuirasses]
@@ -268,6 +278,23 @@ digger, weapon,ammo,armor,helm,gloves,shoes,pants,shield,siegeammo,trapcomp,toy,
 [LAYER_PERMIT:50]
 [MATERIAL_SIZE:7]
 [LEATHER]
+
+
+[ITEM_ARMOR:ITEM_ARMOR_PLOT_PIKACHU]
+[NAME:plot armor:plot armor]
+[MATERIAL_PLACEHOLDER:mithril]
+[ARMORLEVEL:3]
+[UBSTEP:2]
+[LBSTEP:2]
+[SHAPED]
+[LAYER:ARMOR]
+[COVERAGE:300]
+[LAYER_SIZE:20]
+[LAYER_PERMIT:50]
+[MATERIAL_SIZE:7]
+[HARD]
+[METAL][BARRED]
+
 
 [ITEM_HELM:ITEM_HELM_METALHOOD_PIKACHU]
 [NAME:mail hood:mail hood]
@@ -374,6 +401,44 @@ digger, weapon,ammo,armor,helm,gloves,shoes,pants,shield,siegeammo,trapcomp,toy,
 [ATTACK:BLUNT:100000:10000:crush:crushes:NO_SUB:3000]
 	[ATTACK_PREPARE_AND_RECOVER:4:4]
 
+[ITEM_TRAPCOMP:ELECSPIKE_PIKACHU]
+[NAME:electric spike:electric spikes]
+[SIZE:1600]
+[HITS:2]
+[MATERIAL_SIZE:5]
+[IS_SPIKE]
+[METAL]
+[ATTACK:EDGE:4:1000:stab:stabs:NO_SUB:3000]
+	[ATTACK_PREPARE_AND_RECOVER:2:2]
+
+[ITEM_TOY:TOY_GOLEM_PIKACHU]
+[NAME:golem action figure:golom action figures]
+[HARD_MAT]
+
+[ITEM_TOY:TOY_PIKADOLL_PIKACHU]
+[NAME:pikachu doll:pikachu dolls]
+[HARD_MAT]
+
+[ITEM_TOY:TOY_NUCLEAR_PIKACHU]
+[NAME:mini-nuclear reactor:mini-nuclear reactors]
+[HARD_MAT]
+
+[ITEM_TOY:TOY_DOLLAR_PIKACHU]
+[NAME:fake dollar:fake dollars]
+[HARD_MAT]
+
+[ITEM_TOY:TOY_MEETING_PIKACHU]
+[NAME:"meeting room" set:"meeting room" sets]
+[HARD_MAT]
+
+[ITEM_TOY:TOY_SWORD_PIKACHU]
+[NAME:toy broadsword:toy broadswords]
+[HARD_MAT]
+
+[ITEM_TOY:TOY_SHIELD_PIKACHU]
+[NAME:toy shield:toy sheilds]
+[HARD_MAT]
+
 [ITEM_TOOL:BIO_FACTORY]
 [NAME:bio-factory:bio-facories]
 [VALUE:10]
@@ -383,6 +448,34 @@ digger, weapon,ammo,armor,helm,gloves,shoes,pants,shield,siegeammo,trapcomp,toy,
 [SIZE:2000]
 [MATERIAL_SIZE:1]
 [CONTAINER_CAPACITY:4000]
+
+
+[ITEM_TOOL:INCUBATER_PIKACHU]
+[NAME:incubater:incubater]
+[VALUE:10]
+[METAL_MAT]
+[TOOL_USE:NEST_BOX]
+[TILE:22]
+[SIZE:2000]
+[MATERIAL_SIZE:1]
+[CONTAINER_CAPACITY:4000]
+
+[ITEM_TOOL:RAILCAR_PIKACHU]
+[NAME:railcar:railcars]
+[VALUE:60]
+[METAL_MAT]
+WOOD_MAT
+[TOOL_USE:TRACK_CART]
+[FURNITURE]
+[TILE:254]
+[INVERTED_TILE]
+[SIZE:38500]
+[MATERIAL_SIZE:6]
+[CONTAINER_CAPACITY:400000]
+[ATTACK:EDGE:10000:200:run over:runs over:wheels:2000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
+[ATTACK:EDGE:60000:6000:crash into:crashes into:body:2300]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_TOOL:DICTION_PIKACHU]
 [NAME:recording device:recording devices]
@@ -598,7 +691,13 @@ digger, weapon,ammo,armor,helm,gloves,shoes,pants,shield,siegeammo,trapcomp,toy,
 [UNIMPROVABLE]
 [DESCRIPTION:an issue of Unpopular Mechanics featuring the discovery of your scientists. now you can make quantum batteries in the factory, in order to make a quantum stockpile building.]
 
-
+[ITEM_TOOL:POOP_PIKACHU]
+[NAME:poop:poop]
+[VALUE:0]
+[TILE:'~']
+[SIZE:1]
+[NO_DEFAULT_JOB]
+[UNIMPROVABLE]
 
 [ITEM_INSTRUMENT:POKEFLUTE_PIKACHU]
 [NAME:pokeflute:pokeflutes]

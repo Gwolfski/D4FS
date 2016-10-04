@@ -1,6 +1,6 @@
 building_pikachu
 [OBJECT:BUILDING]
-TOILET_PIKACHU:get free potash, and get urine for leatherworking
+TOILET_PIKACHU:get free potash, and get urine for tanning
 LAB_PIKACHU:research new technology
 QUANTUM_PIKACHU:store lots of stuff in one spot.
 ATOMSMASH_PIKACHU:destroy stuff quickly.
@@ -212,7 +212,7 @@ FACTORY_PIKACHU:make certain items in this.
 [COLOR:3:5:7:0:0:7:0:0:7:0:1:7:0:1:7:0:1:7:0:1:7:0:1:7:0:1:7:0:1:7:0:1]
 
 
-[BUILD_ITEM:4:BLOCKS:NONE:NONE:NONE][FIRE_BUILD_SAFE]
+[BUILD_ITEM:5:BLOCKS:NONE:NONE:NONE][FIRE_BUILD_SAFE]
 BUILD_ITEM:1:TRAPPART:NONE:NONE:NONE CAN_USE_ARTIFACT
 BUILD_ITEM:1:ANVIL:NONE:NONE:NONE CAN_USE_ARTIFACT FIRE_BUILD_SAFE
 

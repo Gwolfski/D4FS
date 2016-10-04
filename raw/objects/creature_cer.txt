@@ -6,9 +6,7 @@ creature_cer
 
 [CREATURE:FLYCICLE_CER]
 	[DESCRIPTION:A flying insect that remembles an icicle. It rams into its agressors as an attack. Its colonies produce snowflakes, a cold, sugary delicacy.]
-	[NAME:flycicle:flycicles:flycicle]
-	
-	[CREATURE_TILE:250]
+	[NAME:flycicle:flycicles:flycicle]	[CREATURE_TILE:250]
 	[COLOR:3:0:1]
 	
 	[NATURAL]
@@ -18,7 +16,9 @@ creature_cer
 	[NOT_BUTCHERABLE]
 	[VERMIN_SOIL_COLONY]
 	[VERMIN_NOTRAP]
-	[FREQUENCY:100]
+	
+[CREATURE_CLASS:VERMIN][CREATURE_CLASS:ALL]PIKAADD
+[FREQUENCY:100]
 	[POPULATION_NUMBER:250:500]
 	[CLUSTER_NUMBER:100:200]
 	[SMALL_REMAINS]

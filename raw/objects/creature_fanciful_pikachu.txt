@@ -21,7 +21,7 @@ creature_fanciful_pikachu
 [PREFSTRING:being fun][PREFSTRING:being inevitable][PREFSTRING:!!!FUN!!!][PREFSTRING:resulting from getting too much adamantium][PREFSTRING:good times][PREFSTRING:having happened to this person's first Fort][PREFSTRING:digging too deep.][PREFSTRING:being inevitable][PREFSTRING:being sad, but not unexpected]
 
 [CREATURE:ARMOK_PIKACHU]
-[NAME:Armok:Armoks?:Holy][DOES_NOT_EXIST][ARENA_RESTRICTED][FANCIFUL][MALE]
+[NAME:Armok:Armok:Holy][DOES_NOT_EXIST][ARENA_RESTRICTED][FANCIFUL][MALE]
 [PREFSTRING:holiness][PREFSTRING:blood sacrifice][PREFSTRING:creating adamantium]
 [PREFSTRING:existing. this creature believes in Armok, despite the New Gods influence.]
 [PREFSTRING:holy slaughter]

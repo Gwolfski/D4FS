@@ -1,1 +1,4 @@
 [CONTEXT:ANY:TRANS_NAME] might have a task for you
+[CONTEXT:ANY:TRANS_NAME] may have a job for you
+[CONTEXT:ANY:TRANS_NAME] might have something for you to do
+[CONTEXT:ANY:TRANS_NAME] may require your assistance

@@ -10,7 +10,8 @@ creature_equipment
 	[EQUIPMENT_WAGON][COMMON_DOMESTIC]
 	[NOT_BUTCHERABLE]
 	[BODY:WAGON]
-	[USE_MATERIAL_TEMPLATE:WOOD:WOOD_TEMPLATE]
+[CREATURE_CLASS:ALL][CREATURE_CLASS:INORGANIC]PIKADD[CREATURE_CLASS:NO_GENDER]
+[USE_MATERIAL_TEMPLATE:WOOD:WOOD_TEMPLATE]
 
 	Wagons-as-creatures is most likely going to be replaced once moving siege engines are in, so we'll just use a generic "wood" material here instead of worrying about coding up race glosses again.
 

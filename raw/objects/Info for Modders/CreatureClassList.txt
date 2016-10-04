@@ -7,32 +7,56 @@ MAGIC_WEAK - Vulnerable to magic syndromes
 MAGIC_RESIST - Resistant to magic syndromes
 MAGIC_IMMUNE - Immune to magic syndromes
 
+====Pikachu's classes====
 ALL:all creatures get this class
 INTELLIGENT:intelligent creatures.
 ORGANIC:organic creatures.
 INORGANIC: inorganic creatures, like bronze colossi
 HUMANOID:humanoid creatures.
+ANIMAL:animals. omragon invented this one, not me
+PLANT:plantoids
 FEMALE:females, including castes
 MALE:males, including castes
+NO_GENDER:doesn't have a gender
 HAS_BLOOD:creatures that have blood.
 DEMON:creatures that reside in the HFS
+GOOD:good creatures, includes creatures are good, not just creatures with GOOD.
 EVIL:evil creatures. includes creatures that are evil, not just creatures with EVIL.
 SPIRIT:ghostly creatures.
 INCORPOREAL:incorporeal creatures.
 MAGICAL:creature that could be considered magical, like salamanders.
-FIRE:flaming creatures.
+FLAME:flaming creatures.
 AMPHIBIAN: amphibious creatures, obviously
-AQUATIC:fish
+AQUATIC:things that live in water.
 SLAVE: slaves, and other such creatures.
+VERMIN:vermin
+FISH_VERMIN:catchable vermin fish
 SHADOW:members of the shadow army.
 LIGHT:members of the light army.
 POKEMON:pokemon
 MILKER:milker
 DOMESTIC:creatures with COMMON_DOMESTIC
 GRAZER:grazers
+INSECT:insects. probably includes BUG-type pokemon
 POKEMON:pokemon
+NORMAL:normal type pokemon
+FLYING:flying type pokemon
+WATER:water type pokemon
+FIRE:fire type pokemon
+GRASS:grass type pokemon
 ELECTRIC:electric type pokemon
 GROUND:ground type pokemon
 POISON:poison type pokemon
 GHOST: ghost type pokemon
+FIGHTING:fighting type pokemon
+PSYCHIC:psychic pokemon
+STEEL:steel type pokemon. probably extremely dangerous.
+ROCK:rock type pokemon.probably extra dangerous
+ICE:ice type pokemon.
+DRAGON:dragon type pokemon
+DARK:dark type pokemon
+BUG:bug type pokemon
+FAIRY:fairy type pokemon.
 INSTA_IMMUNE: immune to insta-deaths. used on the killer rabbit.
+ZERG:a zerg
+

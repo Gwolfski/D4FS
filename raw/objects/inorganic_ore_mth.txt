@@ -3,7 +3,9 @@ inorganic_ore_mth
 [OBJECT:INORGANIC]
 // Implentation of HFS stones (custom) {01}//
 [INORGANIC:ETHERSTONE]
-	[ITEM_SYMBOL:'&'] Nonstandard Symbol, plus it reminds you that digging this is a way to Clowns!
+	
+[REACTION_CLASS:STONE][REACTION_CLASS:INORGANIC]PIKAADD
+[ITEM_SYMBOL:'&'] Nonstandard Symbol, plus it reminds you that digging this is a way to Clowns!
 	[STATE_NAME_ADJ:ALL_SOLID:aetherstone]
 	[STATE_NAME_ADJ:LIQUID:molten aetherstone]
 	[STATE_NAME_ADJ:GAS:aether]
@@ -39,7 +41,9 @@ inorganic_ore_mth
 	[ITEMS_HARD]
 	[IS_STONE]
 [INORGANIC:ETHERSTONE_INVERSE]
-	[STATE_NAME_ADJ:ALL_SOLID:hellstone][DISPLAY_COLOR:0:0:1][TILE:176]
+	
+[REACTION_CLASS:STONE][REACTION_CLASS:INORGANIC]PIKAADD
+[STATE_NAME_ADJ:ALL_SOLID:hellstone][DISPLAY_COLOR:0:0:1][TILE:176]
 	[ITEM_SYMBOL:'*']
 	[DEEP_SURFACE]
 	[DISPLAY_COLOR:0:0:1]
