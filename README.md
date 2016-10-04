@@ -51,6 +51,7 @@ We have several standards that we require you to follow. These are not overly ty
 5. We will deal with the rest.
 
 ### If you are using Github:
+**Note**: alert [Cerapter](http://www.bay12forums.com/smf/index.php?action=profile;u=107094) or [LordCerapter](https://github.com/LordCerapter) to be made a collaborator in the project, so that you could make branches instead of having to fork the project everytime you want to make a modificiation.
 
 1. Fork the project onto your own Github page.
   + You may perform this by navigating to the Project's Github page (you are most likely here), and pressing the 'Fork' button on the upper right corner.
