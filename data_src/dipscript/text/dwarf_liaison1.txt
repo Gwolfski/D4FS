@@ -1,3 +1,0 @@
-dwarf_liaison1
-[C:VAR:MEETING:ACTOR]
-[VAR:NATIVENAME:MEETING:ACTOR]:  I am your liaison from the Mountainhomes.  Let's discuss your situation.
