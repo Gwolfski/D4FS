@@ -1,4 +1,4 @@
-wbody_ombr_elthrim
+body_ombr_elthrim
 
 [OBJECT:BODY]
 
