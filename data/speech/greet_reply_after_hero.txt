@@ -1,5 +1,3 @@
-I am [SPEAKER:TRANS_NAME].  Can I be of some help?
-I am [SPEAKER:TRANS_NAME].  How can I be of service?
 WHAT?!! You are here! I-I-I c-can't believe it! My name is [AUDIENCE:FIRST_NAME], No, My name is Monom Sparklepants, No, my name is [SPEAKER:TRANS_NAME].
 Can I help you, Great one? I am but [SPEAKER:TRANS_NAME].
 What?! I can't believe I forgot my camera! m-m-my name is [SPEAKER:TRANS_NAME]. 
