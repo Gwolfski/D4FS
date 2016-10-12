@@ -1,3 +1,2 @@
-I wander [CONTEXT:PLACE:TRANS_NAME].
 I am a nomad. I like to travel in [CONTEXT:PLACE:TRANS_NAME].
 I travel through many places. Most recently I traveled in [CONTEXT:PLACE:TRANS_NAME].

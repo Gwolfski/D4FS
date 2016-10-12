@@ -1,4 +1,3 @@
-It is my duty to scout the area around [CONTEXT:PLACE:TRANS_NAME].
 I am NOT any kind of spy or scout.
 I am Bond, James Bond.
 It tis my duty to look around [CONTEXT:PLACE:TRANS_NAME].

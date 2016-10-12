@@ -1,5 +1,3 @@
-I once sought great treasures.
-I sought great treasures for [CONTEXT:NUMBER] of my years.
 I was a Teacher in Economics and Mechanical Contraptions. Now I teach History.
 I was thought as a great hero in [CONTEXT:PLACE:TRANS_NAME]. now I'm another washed up hero
 I once was a legendary cheesemaker.

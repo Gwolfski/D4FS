@@ -1,4 +1,3 @@
-Greetings.  My name is [SPEAKER:TRANS_NAME].
 Hi there friend. my name is [SPEAKER:TRANS_NAME]
 You are not a vampire, correct? If you are not a vampire, my name is [SPEAKER:TRANS_NAME].
 I am [SPEAKER:TRANS_NAME]. who are you?
