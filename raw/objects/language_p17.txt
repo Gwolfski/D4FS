@@ -1,0 +1,342 @@
+language_p17
+[OBJECT:LANGUAGE] ## sorted by symbol
+
+based on language_english_halfling from the first from scratch
+[TRANSLATION:CAPITALIST]
+
+RACES
+	[T_WORD:VULCAN_P17:sedu]
+	[T_WORD:CAPITALIST_P17:ad]
+	[T_WORD:SHADOWSEEKER_P17:osay]
+	[T_WORD:HELLACOPTER_P17:arod]
+
+PLANT
+	[T_WORD:FLAX:uidoeg]
+	[T_WORD:PUMPKIN:etu]
+	[T_WORD:APPLE_TREE:gosayz]
+
+
+CREATURE
+	[T_WORD:DRAGON:exaos]
+	[T_WORD:ELFLING_BSK:ara]
+	[T_WORD:PORKHOG_BSK:ez]
+	[T_WORD:CLOCKWORK_WHEEL_BSK:uixay]
+	[T_WORD:LOVEBOX_BSK:luggarg]
+	[T_WORD:BLOODKIT_BSK:bsrt]
+	[T_WORD:FLYCICLE_CER:fleil]
+	[T_WORD:SEA_SLUG:zarayg]
+	[T_WORD:SEA_COW:zaydeg]
+	[T_WORD:DUOGOTH:saoroz]
+	[T_WORD:HYDRASTODONT:jezu]
+	[T_WORD:SOLANO:rem]
+	[T_WORD:MOURNSCALE:gehoehe]
+	[T_WORD:AYEEK:qwuel]
+	[T_WORD:MUSTELUK:toak]
+	[T_WORD:PARMABIT:pagt]
+
+ARTIFICE
+	[T_WORD:HAME:jezu]
+	[T_WORD:BREWED:rem]
+	[T_WORD:HOMEMADE:gehoeh]
+	[T_WORD:PIE:run]
+	[T_WORD:TEA:rin]
+
+ASSERTIVE	
+	[T_WORD:MEAN:oger]
+	[T_WORD:GALL:dayz]
+	[T_WORD:MIGHTY:our]
+	[T_WORD:BRAVE:evog]
+
+AQUATIC
+	[T_WORD:OCEAN:onertin]
+	[T_WORD:WATERY:caya]
+	[T_WORD:BUBBLE:toura]
+	[T_WORD:BUBBLING:areng]
+	[T_WORD:WAVE:ous]
+
+
+
+COLOR
+	[T_WORD:RED:oro]
+	[T_WORD:BLUE:daygas]
+	[T_WORD:GREEN:ogays]
+	[T_WORD:WHITE:rayg]
+	[T_WORD:BLACK:dritre]
+	[T_WORD:DARK:carmer]
+	[T_WORD:BRIGHT:weq]
+
+
+DEATH
+	[T_WORD:DEATH:ahayd]
+	[T_WORD:DEADLY:ogou]
+	[T_WORD:REAPER:zodo]
+	[T_WORD:LETHAL:ox]
+	[T_WORD:SKULL:azed]
+
+
+DOMESTIC
+	[T_WORD:HOME:rusay]
+	[T_WORD:PANTS:uiday]
+	[T_WORD:COZY:dare]
+	[T_WORD:RUMP:hup]
+	[T_WORD:BAG:baggins]
+
+
+EARTH
+	[T_WORD:STONE:saha]
+	[T_WORD:ROCK:opug]
+	[T_WORD:HARD:carra]
+	[T_WORD:DIRT:tooun]
+	[T_WORD:EARTHY:srell]
+
+
+EVIL
+	[T_WORD:LIGHT:;ightwe]
+	[T_WORD:EVIL:iop]
+	[T_WORD:WICKED:tayr]
+	[T_WORD:VILE:wayr]
+	[T_WORD:TRAITOR:sayr]
+	[T_WORD:LIE:ioayr]
+
+FLOWERY
+	[T_WORD:BLOSSOM:gong]
+	[T_WORD:FLOWERING:chin]
+	[T_WORD:PETAL:turke]
+	[T_WORD:VINE:grees]
+
+GOOD
+	[T_WORD:SHADOW:shado]
+	[T_WORD:GOOD:gog]
+	[T_WORD:RIGHTEOUS:riguil]
+	[T_WORD:PURE:puy]
+	[T_WORD:HEALING:hear]
+	[T_WORD:RADIANT:ra]
+	[T_WORD:OATH:thoa]
+
+
+HOLY
+	[T_WORD:GOD:houde]
+	[T_WORD:SACRED:uin]
+	[T_WORD:FAIR:sacreblu]
+	[T_WORD:ZEALOUS:rage]
+
+
+LEADER
+	[T_WORD:LORD:complete]
+	[T_WORD:STEWARD:awesome]
+	[T_WORD:CHIEF:cheor]
+	[T_WORD:HEIR:op]
+	[T_WORD:RIGHTFUL:taining]
+
+
+MAGIC
+	[T_WORD:WITCH:xuirez]
+	[T_WORD:ENCHANTED:tos]
+	[T_WORD:WITCHED:xuirezet]
+	[T_WORD:CURSED:irish]
+	[T_WORD:FAIRY:elf]
+
+
+MYSTERY
+	[T_WORD:SECRET:aona]
+	[T_WORD:HAZY:daym]
+	[T_WORD:MISTY:miy]
+	[T_WORD:HIDDEN:hien]
+	[T_WORD:DEEP:duep]
+
+
+MYTHIC
+	[T_WORD:HERO:eed]
+	[T_WORD:CHAMPION:money]
+	[T_WORD:MASTER:money]
+	[T_WORD:HEROIC:money]
+	[T_WORD:MYTHIC:tale]
+
+
+NATURE
+	[T_WORD:FIELD:money]
+
+
+NEGATIVE
+	[T_WORD:NOT:?]
+	[T_WORD:HARDLY:!]
+	[T_WORD:NEITHER:&]
+	[T_WORD:FALSE:0]
+	[T_WORD:WRONG:0]
+
+
+OLD
+	[T_WORD:YORE:tale]	
+	[T_WORD:OLD:tauren]
+	[T_WORD:ELDER:eer]
+	[T_WORD:PAST:piol]
+	[T_WORD:YESTER:poli]
+
+
+PEACE
+	[T_WORD:LULL:lulz]
+	[T_WORD:PEACEFUL:warnotul]
+	[T_WORD:STILL:ttruil]
+	[T_WORD:CALM:+-g]
+	[T_WORD:PEACE:warnot]
+
+
+PRIMITIVE
+	[T_WORD:WILD:eg]
+	[T_WORD:BEARD:sesug]
+	[T_WORD:GOBBLER:ad]
+	[T_WORD:SAVAGE:be]
+	[T_WORD:BARBAROUS:ayza]
+
+
+PROTECT
+	[T_WORD:SHIELD:riot]
+	[T_WORD:GUARDED:rexul]
+	[T_WORD:GUARDIAN:rexur]
+	[T_WORD:GUARD:ayza]
+	[T_WORD:WALL:gail]
+
+
+RESTRAIN
+	[T_WORD:CHAIN:tao]
+	[T_WORD:LEASHED:tayul]
+	[T_WORD:LEASH:tay]
+	[T_WORD:CUFFED:doomed]
+	[T_WORD:BOUND:stor]
+
+
+ROMANTIC
+	[T_WORD:DARLING:dar]
+	[T_WORD:BELOVED:belugged]
+	[T_WORD:LOVE:lugg]
+	[T_WORD:LOVING:lugging]
+	[T_WORD:PRECIOUS:lugoid]
+
+SUBORDINATE
+	[T_WORD:DAUGHTER:gurt]
+	[T_WORD:SON:sun]
+	[T_WORD:CHILD:cga]
+	[T_WORD:WHELP:weeo]
+	[T_WORD:MOOK:myk]
+
+THOUGHT
+	[T_WORD:MIND:m1]
+	[T_WORD:BRAIN:m2]
+	[T_WORD:PSYCHE:m3]
+	[T_WORD:WRY:clei]
+	[T_WORD:CLEVER:clai]
+
+
+UGLY
+	[T_WORD:UGLY:wea]
+	[T_WORD:FOUL:urnl]
+	[T_WORD:POCK:poil]
+	[T_WORD:HOG:hsl]
+	[T_WORD:NASTY:ndy]
+
+
+UNTOWARD
+	[T_WORD:IDIOT:idd]
+	[T_WORD:STUPIDITY:dy]
+	[T_WORD:HALFWIT:halit]
+	[T_WORD:OAF:loaf]
+	[T_WORD:MEAN:mead]
+
+
+VIOLENT
+	[T_WORD:BLOODY:bsyr]
+	[T_WORD:BLADE:jewl]
+	[T_WORD:MURDER:mgr]
+	[T_WORD:REAVER:protoss]
+
+WILD
+	[T_WORD:TRICK:zerg]
+	[T_WORD:NAUGHTY:terran]
+	[T_WORD:TRICKSY:marin]
+	[T_WORD:FLIRTY:firebatia
+	[T_WORD:SPICY:zergkiing]
+
+
+NAME
+	[T_WORD:ROAD:zealo]
+	[T_WORD:WAR:peace]
+	[T_WORD:BATTLE:valkrie]
+	[T_WORD:SIEGE:seil]
+	[T_WORD:CAVERN:cavy]
+	[T_WORD:DESERT:dess]
+	[T_WORD:KINGDOM:vom]
+	[T_WORD:EXPEDITION:dam]
+	[T_WORD:WOODS:palour]
+	[T_WORD:GLACIER:gemapel]
+	[T_WORD:PLAINS:claude]
+	[T_WORD:HILL:my]
+	[T_WORD:LAKE:name]
+	[T_WORD:MOUNTAIN:is]
+	[T_WORD:SEA:not]
+	[T_WORD:SWAMP:mud]
+	[T_WORD:CREATION:sueper]
+	[T_WORD:STAR:poolior]
+	[T_WORD:AETHER:&]
+	[T_WORD:ETHEREAL:@]
+	[T_WORD:TUNDRA:what]
+	[T_WORD:INFERNO:do]
+	[T_WORD:PLACE:you]
+	[T_WORD:HIGH_POINT:need?]
+	[T_WORD:FELLOWSHIP:my name]
+	[T_WORD:CONSTRUCTION:is]
+	[T_WORD:MORGUE:duran,]
+	[T_WORD:ICE_CUBE:duran!]
+	[T_WORD:PARTY:potty]
+
+NEGATOR
+	[T_WORD:SLAYER:torrent]
+
+NEW
+	[T_WORD:FUTURE:tttal]
+	[T_WORD:BEGIN:start-up]
+
+BALANCE
+	[T_WORD:NEUTRAL:dndnu]
+
+BOUNDARY
+	[T_WORD:DOOR:garta]
+	[T_WORD:GATE:garto]
+	[T_WORD:WALL:taliel]
+
+ORDER
+	[T_WORD:LAW:chaosnot]
+	[T_WORD:ORGANIZE:focus]
+
+FAMILY
+	[T_WORD:CLAN:famkt]
+FIRE
+	[T_WORD:FIRE:suv]
+
+FREEDOM
+	[T_WORD:CHAOS:lawnot]
+
+GAMES
+	[T_WORD:CHESS:gamota]
+
+LUCK
+	[T_WORD:LUCK:lertop]
+
+MUSIC
+	[T_WORD:CHANT:poliot]
+
+SKY
+	[T_WORD:HEAVEN:skilv]
+
+SILENCE
+	[T_WORD:SILENCE:silention]
+TRADE
+	[T_WORD:IRON:artium]
+
+TRAVEL
+	[T_WORD:INN:gingum]
+
+TRUTH
+	[T_WORD:HONEST:ginger]
+MISC
+	[T_WORD:MANY:roge]
+	[T_WORD:HEAD BODY:odo]

@@ -1,1 +1,3 @@
-I was a [CONTEXT:UNIT_NAME] for [CONTEXT:NUMBER] of the years of my life.
+for [CONTEXT:NUMBER] years I was a [CONTEXT:UNIT_NAME].
+For almost [CONTEXT:NUMBER] years, I worked as a [CONTEXT:UNIT_NAME].
+For [CONTEXT:NUMBER] years, I made a living as a [CONTEXT:UNIT_NAME].

@@ -1,2 +1,3 @@
-In the past, I hunted great beasts.
-I was a hunter of mighty beasts for [CONTEXT:NUMBER] of my years.
+I lived the life of a hunter for [CONTEXT:NUMBER] years.
+I hunted the animals in [CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years.
+In my [CONTEXT:NUMBER] years as a hunter, I went where my heart drove me.

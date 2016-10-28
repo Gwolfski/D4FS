@@ -1,2 +1,2 @@
-I once wandered the wilds.
-For [CONTEXT:NUMBER] of my years, I wandered the wilds.
+I once was a nomad, but have since settled down here.
+for [CONTEXT:NUMBER] years, I wandered the wilds.

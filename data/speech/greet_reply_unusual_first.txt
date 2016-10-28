@@ -1,2 +1,8 @@
+[AUDIENCE:FIRST_NAME]... [AUDIENCE:FIRST_NAME]... where have I heard that before?
 Caution, [AUDIENCE:FIRST_NAME], They like to beat up a [AUDIENCE:RACE] with such a weird name.
 [AUDIENCE:FIRST_NAME], I am [SPEAKER:TRANS_NAME].
+Well... pleased to meet you... [AUDIENCE:FIRST_NAME].
+I once met someone named [AUDIENCE:FIRST_NAME].  But that was a long time ago.
+[AUDIENCE:FIRST_NAME]?  What kind of a name is [AUDIENCE:FIRST_NAME]?
+[AUDIENCE:FIRST_NAME]!  Ha!  I insist, what is your real name?
+Where are you from, [AUDIENCE:FIRST_NAME]?

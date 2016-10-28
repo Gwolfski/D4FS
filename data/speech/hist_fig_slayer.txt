@@ -1,1 +1,3 @@
-It is I that felled [CONTEXT:HIST_FIG:TRANS_NAME] the [CONTEXT:HIST_FIG:RACE].
+It was by my hand that [CONTEXT:HIST_FIG:TRANS_NAME] the [CONTEXT:HIST_FIG:RACE] fell to.
+[CONTEXT:HIST_FIG:TRANS_NAME] the [CONTEXT:HIST_FIG:RACE] was struck down before me.
+I bested [CONTEXT:HIST_FIG:TRANS_NAME] the [CONTEXT:HIST_FIG:RACE] in mortal combat.
