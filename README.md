@@ -20,7 +20,7 @@ Navigate to the project's thread [with this link][3].
 (This guide assumes you can download files, unpackage packaged files, launch executables, and can do basic file modifications, such as copying, pasting, and deleting.)
 
 1. Obtain the [game][1].
-2. Download the Project's latest version from the [release menu](https://github.com/Gwolfski/D4FS/releases).
+2. Download the Project's latest version from the [release menu](https://github.com/LordCerapter/D4FS/releases).
 3. Back up the game's original files.
 4. In the game's files, remove the `raw` folder.
 5. Move, or copy and paste the downloaded Project's `data` and `raw` folders into the game's folder, where the original folders used to be.
@@ -35,7 +35,7 @@ Additionally:
 ---
 
 ## Modders' Guide
-We have several standards that we require you to follow. These are not overly tyrannical ones (at least, we hope so), but rather, are implemented so that the RAWs (and DATA files) are easy to read and modify. You may check these on the Project's [wiki](https://github.com/Gwolfski/D4FS/wiki).
+We have several standards that we require you to follow. These are not overly tyrannical ones (at least, we hope so), but rather, are implemented so that the RAWs (and DATA files) are easy to read and modify. You may check these on the Project's [wiki](https://github.com/LordCerapter/D4FS/wiki).
 
 ### If you do not desire to use Git:
 
@@ -44,14 +44,14 @@ We have several standards that we require you to follow. These are not overly ty
 3. Package the file, upload it somewhere.
   + The [Dwarf Fortress File Depot](http://dffd.bay12games.com/index.php) is generally a good place to keep things such as this.
 4. Send your package to either:
-  + [Gwolfski](http://www.bay12forums.com/smf/index.php?action=profile;u=110835) on the Bay12Forums.
-  + [Gwolfski](https://github.com/Gwolfski).
+  + [Cerapter](http://www.bay12forums.com/smf/index.php?action=profile;u=107094) on the Bay12Forums.
+  + [LordCerapter](https://github.com/LordCerapter).
   + [Any contributor](https://github.com/LordCerapter/D4FS/graphs/contributors).
   + [Any Modder][3] in the forum thread. (Assuming they know how to use Git.)
 5. We will deal with the rest.
 
 ### If you are using Github:
-**Note**: alert [Gwolfski](http://www.bay12forums.com/smf/index.php?action=profile;u=110835) or [Gwolfski](https://github.com/Gwolfski) to be made a collaborator in the project, so that you could make branches instead of having to fork the project everytime you want to make a modificiation.
+**Note**: alert [Cerapter](http://www.bay12forums.com/smf/index.php?action=profile;u=107094) or [LordCerapter](https://github.com/LordCerapter) to be made a collaborator in the project, so that you could make branches instead of having to fork the project everytime you want to make a modificiation.
 
 1. Fork the project onto your own Github page.
   + You may perform this by navigating to the Project's Github page (you are most likely here), and pressing the 'Fork' button on the upper right corner.
@@ -71,7 +71,7 @@ This guide assumes you are using a Git manager with a graphical user interface. 
   + Cloning means having a local copy of the project on your computer.
 3. You will most likely be asked WHERE TO clone it. This is just the place you want to put the clone into. Choose the previously made 'git' folder.
 4. Then you will be asked an URL. This asks what do you want to clone. Input this:
-  + https://github.com/Gwolfski/D4FS.git
+  + https://github.com/LordCerapter/D4FS.git
 5. If at any point, your Git Manager asks for a name and an e-mail, input the ones you used for Github registration.
   + Later on, it will also ask your Github password. It needs that to log-in to Github to be able to modify the project.
 6. Search for a 'pull' button or command and use it.

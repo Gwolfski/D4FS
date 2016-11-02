@@ -7,7 +7,7 @@ MAGIC_WEAK - Vulnerable to magic syndromes
 MAGIC_RESIST - Resistant to magic syndromes
 MAGIC_IMMUNE - Immune to magic syndromes
 
-====Pikachu's classes====
+====Pikachu17's classes====
 ALL:all creatures get this class
 INTELLIGENT:intelligent creatures.
 ORGANIC:organic creatures.
@@ -59,4 +59,3 @@ BUG:bug type pokemon
 FAIRY:fairy type pokemon.
 INSTA_IMMUNE: immune to insta-deaths. used on the killer rabbit.
 ZERG:a zerg
-

@@ -1,1 +1,3 @@
-seek out [CONTEXT:HIST_FIG:TRANS_NAME] here in [CONTEXT:SITE:TRANS_NAME]
+Now go, and bring [CONTEXT:HIST_FIG:TRANS_NAME] to justice
+Kill [CONTEXT:HIST_FIG:TRANS_NAME]. [PRO_SUB] is here in [CONTEXT:SITE:TRANS_NAME]
+Hunt down [CONTEXT:HIST_FIG:TRANS_NAME] who is close by

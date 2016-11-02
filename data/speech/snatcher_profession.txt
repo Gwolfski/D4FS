@@ -1,3 +1,4 @@
+I rescue lost children and bring them back to [CONTEXT:PLACE:TRANS_NAME].
 I run an orphanage in [CONTEXT:PLACE:TRANS_NAME].
 I am a teacher. I teach children the ways of the world, and a better life.
 I take children from undeserving parents, and take them to [CONTEXT:PLACE:TRANS_NAME].

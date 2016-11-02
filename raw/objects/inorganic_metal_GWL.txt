@@ -1,14 +1,11 @@
 inorganic_metal_GWL
-
 [OBJECT:INORGANIC]
-
 [INORGANIC:METAL_DULL]# a weakened version of iron (smaller numbers is weaker, right?)
 	
-[REACTION_CLASS:METAL][REACTION_CLASS:INORGANIC]PIKAADD
-[USE_MATERIAL_TEMPLATE:METAL_TEMPLATE]
-	[STATE_NAME_ADJ:ALL_SOLID:dull metal]
-	[STATE_NAME_ADJ:LIQUID:molten dull metal]
-	[STATE_NAME_ADJ:GAS:dull metallic vapour]
+[USE_MATERIAL_TEMPLATE:METAL_TEMPLATE_P17]
+[STATE_NAME_ADJ:ALL_SOLID:dull metal]
+[STATE_NAME_ADJ:LIQUID:molten dull metal]
+[STATE_NAME_ADJ:GAS:dull metallic vapour]
 	[DISPLAY_COLOR:0:8:1]
 	[BUILD_COLOR:0:8:1]
 	[MATERIAL_VALUE:8]

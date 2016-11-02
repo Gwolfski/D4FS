@@ -1,0 +1,21 @@
+descriptor_color_p17
+[OBJECT:DESCRIPTOR_COLOR]
+[COLOR:GLOWING_YELLOW]
+	[NAME:glowing yellow]
+	[WORD:YELLOW]
+	[RGB:255:225:0]
+
+[COLOR:GLOWING_RED]
+	[NAME:glowing red]
+	[WORD:RED]
+	[RGB:255:0:0]
+
+[COLOR:GLOWING_GREEN]
+	[NAME:glowing green]
+	[WORD:GREEN]
+	[RGB:0:245:0]
+
+[COLOR:GLOWING_BLUE]
+	[NAME:glowing green]
+	[WORD:BLUE]
+	[RGB:0:0:255]

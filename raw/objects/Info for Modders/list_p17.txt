@@ -1,0 +1,257 @@
+#CREATURE_CLASSES#
+ALL:all creatures get this class
+INTELLIGENT:intelligent creatures.
+ORGANIC:organic creatures.
+INORGANIC: inorganic creatures, like bronze colossi
+HUMANOID:humanoid creatures.
+ANIMAL:animals. ombragon invented this one, not me
+PLANT:plantoids
+FEMALE:females, including castes
+MALE:males, including castes
+NO_GENDER:doesn't have a gender
+HAS_BLOOD:creatures that have blood.
+DEMON:creatures that reside in the HFS
+GOOD:good creatures, includes creatures are good, not just creatures with GOOD.
+EVIL:evil creatures. includes creatures that are evil, not just creatures with EVIL.
+SPIRIT:ghostly creatures.
+INCORPOREAL:incorporeal creatures.
+MAGICAL:creature that could be considered magical, like salamanders.
+FLAME:flaming creatures.
+AMPHIBIAN: amphibious creatures, obviously
+AQUATIC:things that live in water.
+SLAVE: slaves, and other such creatures.
+VERMIN:vermin
+FISH_VERMIN:catchable vermin fish
+SHADOW:members of the shadow army.
+LIGHT:members of the light army.
+POKEMON:pokemon
+MILKER:milker
+DOMESTIC:creatures with COMMON_DOMESTIC
+GRAZER:grazers
+INSECT:insects. probably includes BUG-type pokemon
+POKEMON:pokemon
+NORMAL:normal type pokemon
+FLYING:flying type pokemon
+WATER:water type pokemon
+FIRE:fire type pokemon
+GRASS:grass type pokemon
+ELECTRIC:electric type pokemon
+GROUND:ground type pokemon
+POISON:poison type pokemon
+GHOST: ghost type pokemon
+FIGHTING:fighting type pokemon
+PSYCHIC:psychic pokemon
+STEEL:steel type pokemon. probably extremely dangerous.
+ROCK:rock type pokemon.probably extra dangerous
+ICE:ice type pokemon.
+DRAGON:dragon type pokemon
+DARK:dark type pokemon
+BUG:bug type pokemon
+FAIRY:fairy type pokemon.
+INSTA_IMMUNE: immune to insta-deaths. used on the killer rabbit.
+ZERG:a zerg
+
+#REACTION_CLASSES#
+STONE:stone, obviously
+GEM:gems, and diamonds.
+METAL:metal, obviously
+INORGANIC: non-organic things.
+WOOD: wood
+PAPER:writing material
+ORGANIC:stuff straight from a creature.
+ORGANIC_INEDIBLE:organic matter that can't be eaten
+EDIBLE:foodstuffs. includes meats and some plants
+DRINK:edible liquids.
+ALCOHOL:booze
+PLANT_ALCOHOL:most booze. made from plants.
+ALCOHOL_CREATURE:booze from creatures. 
+MEAT:meat. organic edibles
+PLANT:plants
+EDIBLE_PLANT:edible plants
+THREAD:material that can make clothing
+SKIN: skin.
+LEATHER:leather
+FAT:fatty globs
+BONE:bones.
+HAIR:hair
+KERATIN:hair,nails, ETC...
+SCALE:scales on fish and dragons.
+SCALEMAIL:scales that can be turned into armor. for instance, dragonscale.
+NAIL:nails, as in toenails and fingernails.
+TOOTH:teeth
+EYE: eyes, obviously.
+NERVE:nervous material
+BRAIN:grey matter.
+LUNG:lungs
+HEART:the heart
+LIVER:livers.
+GUT:gut instinct
+STOMACH:stomach
+HORN:horn material
+HOOF:hoof material. potions of speed sometime require this.
+SILK:silk
+PEARL:pearls.
+BLEED:can be bled by creatures.
+BLOOD:blood.
+ICHOR:ichor
+GOO:goo and slime
+PUS:pus that comes from infection
+SHELL:shells and chitin
+SOAP:soap
+TALLOW:tallow
+MILK:milk
+CHEESE:cheese
+SEED:seeds
+LEAF:leaf
+FRUIT:fruit
+BUD:buds
+SHROOM:mushrooms, like plump helmets
+FLOWER:flowers
+CLOTH:plant threads. cloth clothing.
+SOIL:dirt.
+SAND:sand
+INK:ink
+EGGSHELL:shell of a egg
+EGG:edible egg
+ELECTRONIC:metals that can be used for electronics wiring
+SPONGE:sponge
+TEARS:tears
+SPIT:spit
+SWEAT:sweat
+
+#Body categories#
+WEAPON:attached swords,chainsaws, ETC.
+GUN:the cannons on hellacopters
+BOOB:the breasts on a succubus
+ATTACK:the psidopods on the slime.
+
+====Material reaction products====
+TAN_MAT:just like in vanilla
+PARCHMENT_MAT:just like in vanilla
+DRINK_MAT:just like in vanilla
+SYRUP_MAT:you can get this syrup from logs that have this.
+STONE_DRINK:you can brew this drink from boulders that have it.
+CAULDRON_MAT:you can get this potion from stuff it's brewed. the item doesn't need CAULDRON_MAT to be accepted by the reaction.
+====SYN IDENTIFIER===
+VENOM:poisons and venoms.
+
+
+
+the following causes the game to crash if they are not commented/deleted out of the raws. I don't know what's wrong
+
+
+PLANT:CAVE_CHOCOLATE_P17
+	NAME:cave chocolate tree NAME_PLURAL:cave chocolate trees ADJ:chocolate tree
+	USE_MATERIAL_TEMPLATE:STRUCTURAL:STRUCTURAL_PLANT_TEMPLATE
+	BASIC_MAT:LOCAL_PLANT_MAT:STRUCTURAL
+	DISPLAY_COLOR:4:0:0]
+	USE_MATERIAL_TEMPLATE:WOOD:WOOD_TEMPLATE
+		STATE_NAME:ALL_SOLID:chocolate
+		STATE_ADJ:ALL_SOLID:chocolate
+		PREFIX:NONE
+	 	SOLID_DENSITY:540	
+	 	STATE_COLOR:ALL_SOLID:BROWN
+		EDIBLE_RAW
+		EDIBLE_COOKED
+		EDIBLE_VERMIN
+	USE_MATERIAL_TEMPLATE:FRUIT:FRUIT_TEMPLATE_P17
+		STATE_NAME:ALL_SOLID:chocolate]
+		STATE_ADJ:ALL_SOLID:chocolate]
+		STATE_COLOR:ALL:BROWN]
+		DISPLAY_COLOR:2:0:0]
+		PREFIX:NONE]
+		EDIBLE_RAW]
+		EDIBLE_COOKED]
+		EDIBLE_VERMIN]
+	TREE:LOCAL_PLANT_MAT:WOOD TREE_TILE:5
+	TRUNK_PERIOD:10
+	HEAVY_BRANCH_DENSITY:25
+	BRANCH_DENSITY:50
+	MAX_TRUNK_HEIGHT:3
+	HEAVY_BRANCH_RADIUS:5
+	BRANCH_RADIUS:10
+	TRUNK_BRANCHING:2
+	MAX_TRUNK_DIAMETER:3
+	TRUNK_WIDTH_PERIOD:200
+	ROOT_DENSITY:5
+	ROOT_RADIUS:3
+	STANDARD_TILE_NAMES
+	PREFSTRING:chocolate flavor
+	DRY
+	BIOME:SUBTERRANEAN_CHASM
+	UNDERGROUND_DEPTH:1:3
+	SAPLING
+	GROWTH:FRUIT
+		GROWTH_NAME:chocolate:chocolate
+		GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:FRUIT
+		GROWTH_DENSITY:1000
+		GROWTH_HOST_TILE:BRANCHES_AND_TWIGS
+		GROWTH_HOST_TILE:SAPLING
+		GROWTH_TIMING:0:300000
+		GROWTH_DROPS_OFF
+
+
+INTERACTION:VAMPIRE_SPAWN_P17
+	this crashes when i try to load arena
+	I_SOURCE:CREATURE_ACTION
+	IS_HIST_STRING_1: returned
+	IS_HIST_STRING_2: from the void of death , but in exchange cursed it to be a vampire spawn forever
+	I_TARGET:A:CORPSE
+		IT_LOCATION:CONTEXT_ITEM
+		IT_AFFECTED_CLASS:INTELLIGENT
+		IT_REQUIRES:FIT_FOR_ANIMATION
+		IT_FORBIDDEN:NOT_LIVING
+		IT_MANUAL_INPUT:intelligent corpses
+		IT_CANNOT_HAVE_SYNDROME_CLASS:WERECURSE
+		IT_CANNOT_HAVE_SYNDROME_CLASS:VAMPCURSE
+		IT_CANNOT_HAVE_SYNDROME_CLASS:DISTURBANCE_CURSE
+
+	I_EFFECT:RESURRECT
+		IE_TARGET:A
+		IE_IMMEDIATE
+		IE_ARENA_NAME:vampire spawn
+		SYN_CLASS:VAMPCURSE
+CE_ADD_TAG:BLOODSUCKER:NO_AGING:STERILE:NOT_LIVING:NOEXERT:NOPAIN:NOBREATHE:NOSTUN:NONAUSEA:NO_DIZZINESS:NO_FEVERS:PARALYZEIMMUNE:NO_EAT:NO_DRINK:NO_SLEEP:NO_PHYS_ATT_GAIN:NO_PHYS_ATT_RUST:CAN_LEARN:CAN_SPEAK:START:0
+CE_ADD_TAG:OPPOSED_TO_LIFE:PROB:30:START:0
+CE_ADD_TAG:OPPOSED_TO_LIFE:START:34800:DWF_STRETCH:72
+		CE_PHYS_ATT_CHANGE:STRENGTH:200:0:AGILITY:200:0:TOUGHNESS:200:0:START:0
+		CE_MATERIAL_FORCE_MULTIPLIER:MAT_MULT:NONE:NONE:1:2
+	CE_MATERIAL_FORCE_MULTIPLIER:MAT_MULT:PLANT_MAT:GARLIC_PIKACH:BULB:2000:1
+		CE_DISPLAY_TILE:TILE:165:4:0:0:START:0:CAN_BE_HIDDEN
+		CE_DISPLAY_NAME:NAME:vampire spawn:vampire spawns:vampiric:START:0:CAN_BE_HIDDEN
+		CE_BP_APPEARANCE_MODIFIER:START:0:BP:BY_CATEGORY:TOOTH:APPEARANCE_MODIFIER:LENGTH:150
+			CE:COUNTER_TRIGGER:DRINKING_BLOOD:1:NONE:REQUIRED
+		CE_SENSE_CREATURE_CLASS:START:0:CLASS:HAS_BLOOD:15:4:0:1
+
+world 9 release V.6
+world 15 release V.8
+*left
+
+entity for shadowseekers
+tarrasque
+holy hand( or firing, most likely) grenade, to kill the bunny.
+make research for capitalists. include quantum stockpiles, atom smasher and crematory buildings
+do more with slimes
+plants VS. zombies plants
+zergs
+gardener civ.
+pokemon learning.
+more att ranges
+ninja
+
+interesting pokemon:
+additional eevees; glaceon, espreon(psychic),umbreon(dark), sylveon(fairy), and leafeon.
+hydreigon:as a megabeast.
+gyarados:megabeast, can be tamed but will go crazed
+zapdos, articuno, and moltres.
+dodtrio, which uses tri-attack. might have dodua castes too.
+houndoom:megabeast. special flame material with endless pain.
+
+pokemon types: normal, fire, grass, water, electric, bug, ghost(creepeon, scareon), flying, fighting(dodgeon), psychic, steel(endureon), rock, ground(dirteon, quakeon), ice, poison, dark, dragon, fairy.
+
+vanilla-ization of bodies
+salamander:vanilla-ized 
+vulcan:still has HUMANOID_NECK, 2_EARS, HUMANOID_JOINTS, MOUTH, TEETH
+and FACIAL_FEATURES
+capitalist:see vulcan
+slave:see vulcan
