@@ -19,3 +19,8 @@ descriptor_color_p17
 	[NAME:glowing green]
 	[WORD:BLUE]
 	[RGB:0:0:255]
+
+[COLOR:EMPTY]
+	[NAME:empty]
+	[WORD:EMPTY]
+	[RGB:255:255:255]

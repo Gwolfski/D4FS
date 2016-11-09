@@ -1,5 +1,4 @@
 creature_fanciful_p17
-
 [OBJECT:CREATURE] creature_standard now made to be a fanciful file. also some other fanciful stuff
 [CREATURE:GHOST_P17][DOES_NOT_EXIST][ARENA_RESTRICTED][FANCIFUL]
 [NAME:ghost:ghosts:ghostly]
@@ -85,10 +84,10 @@ creature_fanciful_p17
 [PREFSTRING:awesomeness][PREFSTRING:alcoholic qualities]
 [PREFSTRING:being beer][PREFSTRING:being wonderful and cold.][PREFSTRING:being awesome.]
 
-
-[CREATURE:CAKE_P17]
-	[USE_MATERIAL_TEMPLATE:PARCHMENT:PARCHMENT_TEMPLATE_P17]
+[CREATURE:CAKE_P17] the 14th creature from the top has skin in my computer. why I have no idea.
+	[USE_MATERIAL_TEMPLATE:SKIN:SKIN_TEMPLATE_P17]to make this doesn't crash
 	[USE_MATERIAL_TEMPLATE:LEATHER:LEATHER_TEMPLATE_P17]
+	[USE_MATERIAL_TEMPLATE:PARCHMENT:PARCHMENT_TEMPLATE_P17]
 	[DOES_NOT_EXIST][ARENA_RESTRICTED][FANCIFUL]
 	[CREATURE_TILE:15]
 	[NAME:cake:cakes:cake][CASTE_NAME:cake:cakes:cake]
@@ -272,7 +271,6 @@ creature_fanciful_p17
 	[BONECARN]
 [PREFSTRING:terrifying features][PREFSTRING:trolling][PREFSTRING:tusks][PREFSTRING:wool]
 [PREFSTRING:friendship with goblins][PREFSTRING:evil]
-	
 	[CASTE:FEMALE]
 		[FEMALE]
 		[MULTIPLE_LITTER_RARE]

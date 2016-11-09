@@ -10,6 +10,7 @@ FEMALE:females, including castes
 MALE:males, including castes
 NO_GENDER:doesn't have a gender
 HAS_BLOOD:creatures that have blood.
+SOUL:not to be confused  with spirit, SOUL is for creatures that conceivably have one that could be stolen.
 DEMON:creatures that reside in the HFS
 GOOD:good creatures, includes creatures are good, not just creatures with GOOD.
 EVIL:evil creatures. includes creatures that are evil, not just creatures with EVIL.
@@ -123,7 +124,7 @@ SWEAT:sweat
 WEAPON:attached swords,chainsaws, ETC.
 GUN:the cannons on hellacopters
 BOOB:the breasts on a succubus
-ATTACK:the psidopods on the slime.
+ATTACK:the pseidopods on the slime.
 
 ====Material reaction products====
 TAN_MAT:just like in vanilla
@@ -223,35 +224,7 @@ CE_ADD_TAG:OPPOSED_TO_LIFE:START:34800:DWF_STRETCH:72
 			CE:COUNTER_TRIGGER:DRINKING_BLOOD:1:NONE:REQUIRED
 		CE_SENSE_CREATURE_CLASS:START:0:CLASS:HAS_BLOOD:15:4:0:1
 
-world 9 release V.6
-world 15 release V.8
-*left
-
-entity for shadowseekers
-tarrasque
-holy hand( or firing, most likely) grenade, to kill the bunny.
-make research for capitalists. include quantum stockpiles, atom smasher and crematory buildings
-do more with slimes
-plants VS. zombies plants
-zergs
-gardener civ.
-pokemon learning.
-more att ranges
-ninja
-
-interesting pokemon:
-additional eevees; glaceon, espreon(psychic),umbreon(dark), sylveon(fairy), and leafeon.
-hydreigon:as a megabeast.
-gyarados:megabeast, can be tamed but will go crazed
-zapdos, articuno, and moltres.
-dodtrio, which uses tri-attack. might have dodua castes too.
-houndoom:megabeast. special flame material with endless pain.
-
-pokemon types: normal, fire, grass, water, electric, bug, ghost(creepeon, scareon), flying, fighting(dodgeon), psychic, steel(endureon), rock, ground(dirteon, quakeon), ice, poison, dark, dragon, fairy.
-
-vanilla-ization of bodies
-salamander:vanilla-ized 
-vulcan:still has HUMANOID_NECK, 2_EARS, HUMANOID_JOINTS, MOUTH, TEETH
-and FACIAL_FEATURES
-capitalist:see vulcan
-slave:see vulcan
+NOTES TO OTHER MODDERS
+for some reason, the 14th creature in creature_fanciful_pikachu has skin, then requiring the 2 next lines.	[USE_MATERIAL_TEMPLATE:LEATHER:LEATHER_TEMPLATE_P17]
+[USE_MATERIAL_TEMPLATE:PARCHMENT:PARCHMENT_TEMPLATE_P17]
+why this happens I have no idea. also happened to the the 9th creature in creature_p17, which was light rider. I then switched it so shadowseeker(which already has skin) is in 9th place, and light rider doesn't need leather.

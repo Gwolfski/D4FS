@@ -105,10 +105,10 @@ digger, weapon,ammo,armor,helm,gloves,shoes,pants,shield,siegeammo,trapcomp,toy,
 
 [ITEM_WEAPON:KATANA_P17]
 [NAME:katana:katanas]
-[SIZE:600]
+[SIZE:300]
 [SKILL:SWORD]
-[TWO_HANDED:60500]
-[MINIMUM_SIZE:42500]
+[TWO_HANDED:2500]
+[MINIMUM_SIZE:10000]
 [CAN_STONE]
 [MATERIAL_SIZE:3]
 [ATTACK:EDGE:47000:4000:slash:slashes:NO_SUB:1300]
@@ -337,7 +337,7 @@ digger, weapon,ammo,armor,helm,gloves,shoes,pants,shield,siegeammo,trapcomp,toy,
 [ITEM_HELM:ITEM_HELM_METALHOOD_P17]
 [NAME:mail hood:mail hood]
 [ARMORLEVEL:3]
-[METAL_ARMOR_LEVELS]
+METAL_ARMOR_LEVELS
 [SHAPED]
 [LAYER:COVER]
 [COVERAGE:80]
@@ -476,6 +476,19 @@ digger, weapon,ammo,armor,helm,gloves,shoes,pants,shield,siegeammo,trapcomp,toy,
 [ITEM_TOY:TOY_SHIELD_P17]
 [NAME:toy shield:toy shields]
 [HARD_MAT]
+
+[ITEM_TOOL:LEARNSTATION_P17]
+[NAME:learning station:learning stations]
+[VALUE:30]
+[METAL_MAT]
+[TOOL_USE:BOOKCASE]
+[FURNITURE]
+[TILE:22]
+[INVERTED_TILE]
+[SIZE:700]
+[MATERIAL_SIZE:7]
+[CONTAINER_CAPACITY:10000]
+
 
 [ITEM_TOOL:BIO_FACTORY]
 [NAME:bio-factory:bio-facories]

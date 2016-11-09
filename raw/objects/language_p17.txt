@@ -276,16 +276,16 @@ NAME
 	[T_WORD:SWAMP:mud]
 	[T_WORD:CREATION:sueper]
 	[T_WORD:STAR:poolior]
-	[T_WORD:AETHER:&]
-	[T_WORD:ETHEREAL:@]
+	[T_WORD:AETHER:and]&
+	[T_WORD:ETHEREAL:around]@
 	[T_WORD:TUNDRA:what]
 	[T_WORD:INFERNO:do]
 	[T_WORD:PLACE:you]
-	[T_WORD:HIGH_POINT:need?]
+	[T_WORD:HIGH_POINT:need]
 	[T_WORD:FELLOWSHIP:my name]
 	[T_WORD:CONSTRUCTION:is]
-	[T_WORD:MORGUE:duran,]
-	[T_WORD:ICE_CUBE:duran!]
+	[T_WORD:MORGUE:duran]
+	[T_WORD:ICE_CUBE:duran]
 	[T_WORD:PARTY:potty]
 
 NEGATOR
