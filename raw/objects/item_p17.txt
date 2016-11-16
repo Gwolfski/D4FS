@@ -105,10 +105,10 @@ digger, weapon,ammo,armor,helm,gloves,shoes,pants,shield,siegeammo,trapcomp,toy,
 
 [ITEM_WEAPON:KATANA_P17]
 [NAME:katana:katanas]
-[SIZE:600]
+[SIZE:300]
 [SKILL:SWORD]
-[TWO_HANDED:60500]
-[MINIMUM_SIZE:42500]
+[TWO_HANDED:2500]
+[MINIMUM_SIZE:10000]
 [CAN_STONE]
 [MATERIAL_SIZE:3]
 [ATTACK:EDGE:47000:4000:slash:slashes:NO_SUB:1300]
@@ -275,6 +275,13 @@ digger, weapon,ammo,armor,helm,gloves,shoes,pants,shield,siegeammo,trapcomp,toy,
 	[ATTACK_PREPARE_AND_RECOVER:6:6]
 
 
+[ITEM_AMMO:SNOWBALL_P17]
+[NAME:ball:balls]snowballs
+[CLASS:THROW]probably won't turn up in fort mode, but just in case.
+[SIZE:150]
+[ATTACK:BLUNT:10:10:hit:hits:NO_SUB:10]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
+
 [ITEM_AMMO:THROWSTAR_P17]
 [NAME:shuriken:shuriken]
 [SIZE:100]
@@ -337,7 +344,7 @@ digger, weapon,ammo,armor,helm,gloves,shoes,pants,shield,siegeammo,trapcomp,toy,
 [ITEM_HELM:ITEM_HELM_METALHOOD_P17]
 [NAME:mail hood:mail hood]
 [ARMORLEVEL:3]
-[METAL_ARMOR_LEVELS]
+METAL_ARMOR_LEVELS
 [SHAPED]
 [LAYER:COVER]
 [COVERAGE:80]
@@ -477,6 +484,19 @@ digger, weapon,ammo,armor,helm,gloves,shoes,pants,shield,siegeammo,trapcomp,toy,
 [NAME:toy shield:toy shields]
 [HARD_MAT]
 
+[ITEM_TOOL:LEARNSTATION_P17]
+[NAME:learning station:learning stations]
+[VALUE:30]
+[METAL_MAT]
+[TOOL_USE:BOOKCASE]
+[FURNITURE]
+[TILE:22]
+[INVERTED_TILE]
+[SIZE:700]
+[MATERIAL_SIZE:7]
+[CONTAINER_CAPACITY:10000]
+
+
 [ITEM_TOOL:BIO_FACTORY]
 [NAME:bio-factory:bio-facories]
 [VALUE:10]
@@ -537,6 +557,15 @@ WOOD_MAT
 [TILE:'Q']
 [SIZE:300]
 [NO_DEFAULT_JOB]
+[DESCRIPTION:for use in building a quantum stockpile]
+
+[ITEM_TOOL:TELEPORTBATTERY_P17]
+[NAME:Transport Battery:Transport Battery]
+[VALUE:600]
+[TILE:'Q']
+[SIZE:300]
+[NO_DEFAULT_JOB]
+[DESCRIPTION:for use in building the long-distance market. vulcans can easily make one.]
 
 [ITEM_TOOL:DRINKATRON]
 [NAME:Drinkatron 5000:Drinkaton 5000s]
@@ -679,7 +708,6 @@ WOOD_MAT
 [UNIMPROVABLE]
 [DESCRIPTION:notes on certain things. let them continue researching it, and they might just discover something important.]
 
-
 [ITEM_TOOL:RESEARCH_TELEPORT4]
 [NAME:note on teleportation:notes on teleportation]
 [VALUE:10]
@@ -688,6 +716,15 @@ WOOD_MAT
 [NO_DEFAULT_JOB]
 [UNIMPROVABLE]
 [DESCRIPTION:notes on certain things. let them continue researching it, and they might just discover something important.]
+
+[ITEM_TOOL:RESEARCH_TELEPORTE]
+[NAME:Scientific paper on beam me up devices:scientific papers on beam me up devices ]
+[VALUE:10]
+[TILE:240]
+[SIZE:100]
+[NO_DEFAULT_JOB]
+[UNIMPROVABLE]
+[DESCRIPTION:an issue of Unpopular Mechanics featuring the discovery of your scientists. now you can make transporter batteries in the factory, in order to make a long-distance market.]
 
 [ITEM_TOOL:RESEARCH_DRINKATRON2]
 [NAME:note on alternate potable liquids:notes on alternate potable liquids]
@@ -709,7 +746,7 @@ WOOD_MAT
 
 
 [ITEM_TOOL:RESEARCH_QUANTUME]
-[NAME:Scientific paper on quantum stockpiling:scientific papers on qunatum stockpiling ]
+[NAME:Scientific paper on quantum stockpiling:scientific papers on quantum stockpiling ]
 [VALUE:10]
 [TILE:240]
 [SIZE:100]
@@ -739,3 +776,18 @@ WOOD_MAT
 [TIMBRE:SPARSE:WOBBLING:QUAVERING]
 [MUSIC_SKILL:PLAY_WIND_INSTRUMENT]
 [DESCRIPTION:The pokeflute is a mid-size hand-held wind instrument consisting of three adjacent cylindrical wooden pipes.  The musician blows across the end of each pipe.  The instrument has a three-and-a-half octave range going from a mid-low to a very high pitch.  The instrument has a sparse wobbling quavering timbre. it is known to wake up snorelax.]
+
+[ITEM_INSTRUMENT:GUITAR_P17]
+[NAME:guitar:guitar]
+[VALUE:50]
+[SIZE:25000]
+[MATERIAL_SIZE:3]
+[WOOD_MAT]
+[SOUND_PRODUCTION:PLUCKED_BY_BP:SELF]
+[PITCH_CHOICE:SUBPART_CHOICE:SELF]
+[TUNING:TIGHTENING:SELF]
+[VOLUME_mB:0:10000]
+[PITCH_RANGE:-1000:3000]
+[TIMBRE:SPARSE:WOBBLING:QUAVERING:PIERCING]
+[MUSIC_SKILL:PLAY_STRINGED_INSTRUMENT]
+[DESCRIPTION:The guitar is a mid-size hand-held stringed instrument consisting of various parts.  The musician plucks the strings.  The instrument has a three-and-a-half octave range going from a mid-low to a very high pitch.  The instrument has a sparse wobbling quavering piercing timbre.]
