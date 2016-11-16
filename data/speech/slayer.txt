@@ -19,3 +19,4 @@ torturer
 undoer
 misfortune
 final bad luck
+final end

@@ -63,7 +63,7 @@ inorganic_p17
 [MOLAR_MASS:1]
 
 ======= Gems ========
-[INORGANIC:DILITHIUM_P17]need to be rare
+[INORGANIC:DILITHIUM_P17]need to be rare. this is from Star Trek, right?
 [USE_MATERIAL_TEMPLATE:GEM_TEMPLATE_P17
 [MATERIAL_VALUE:400][DISPLAY_COLOR:0:7:1][TILE:15]
 [IS_GEM:dilithium crystal:dilithium crystals:OVERWRITE_SOLID]
