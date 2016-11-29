@@ -25,6 +25,8 @@ VERMIN:vermin
 FISH_VERMIN:catchable vermin fish
 SHADOW:members of the shadow army.
 LIGHT:members of the light army.
+SUPERHERO:a good aligned powered citizen
+SUPERVILLAIN:a evil aligned powered citizen
 POKEMON:pokemon
 MILKER:milker
 DOMESTIC:creatures with COMMON_DOMESTIC
@@ -102,6 +104,7 @@ SOAP:soap
 TALLOW:tallow
 MILK:milk
 CHEESE:cheese
+BREAD:bread.
 SEED:seeds
 LEAF:leaf
 FRUIT:fruit
@@ -133,6 +136,7 @@ DRINK_MAT:just like in vanilla
 SYRUP_MAT:you can get this syrup from logs that have this.
 STONE_DRINK:you can brew this drink from boulders that have it.
 CAULDRON_MAT:you can get this potion from stuff it's brewed. the item doesn't need CAULDRON_MAT to be accepted by the reaction.
+BREAD_MAT:put on flour, to turn into bread.
 ====SYN IDENTIFIER===
 VENOM:poisons and venoms.
 
@@ -228,3 +232,24 @@ NOTES TO OTHER MODDERS
 for some reason, the 14th creature in creature_fanciful_pikachu has skin, then requiring the 2 next lines.	[USE_MATERIAL_TEMPLATE:LEATHER:LEATHER_TEMPLATE_P17]
 [USE_MATERIAL_TEMPLATE:PARCHMENT:PARCHMENT_TEMPLATE_P17]
 why this happens I have no idea. also happened to the the 9th creature in creature_p17, which was light rider. I then switched it so shadowseeker(which already has skin) is in 9th place, and light rider doesn't need leather.
+
+NOTES TO SELF, DO NOT LET OTHERS SEE
+tarrasque
+holy hand( or firing, most likely) grenade, to kill the bunny.
+make research for capitalists. include quantum stockpiles, atom smasher and crematory buildings
+plants VS. zombies plants
+zergs
+gardener civ.
+pokemon learning.
+more att ranges
+necromancer hive:turns bodies into necro-bees
+
+interesting pokemon:
+additional eevees; glaceon, espreon(psychic),umbreon(dark), sylveon(fairy), and leafeon.
+hydreigon:as a megabeast.
+gyarados:megabeast, can be tamed but will go crazed
+zapdos, articuno, and moltres.
+dodtrio, which uses tri-attack. might have dodua castes too.
+houndoom:megabeast. special flame material with endless pain.
+
+pokemon types: normal, fire, grass, water, electric, bug, ghost(creepeon, scareon), flying, fighting(dodgeon), psychic, steel(endureon), rock, ground(dirteon, quakeon), ice, poison, dark, dragon, fairy.

@@ -1,7 +1,5 @@
 reaction_cer
-
 [OBJECT:REACTION]
-
 [REACTION:PRESS_SNOWFLAKE_CER]
 	[NAME:press snowflake]
 	[DESCRIPTION:Press snowflake jelly into liquid snowflake.]
@@ -28,7 +26,7 @@ reaction_cer
 [REACTION:MAKE_SNOWFLAKE_DRINK_CER]
 	[NAME:make snowflake drink]
 	[DESCRIPTION:Make drink out of the liquid snowflake and some other flavour liquid. The resulting liquid is similar to melted ice-cream, and can be flavoured further, or drank as it is.]
-	BUILDING:STILL]
+	[BUILDING:STILL]
 	
 	[REAGENT:snowflake:150:LIQUID_MISC:NONE:NONE:NONE]
 		[UNROTTEN]
