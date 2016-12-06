@@ -31,8 +31,8 @@ descriptor_shape_p17
 	[ADJ:episode about Number Six, and the Scizoid Man]
 	[ADJ:episode of the Prisoner, the disapointing last episode]
 	[ADJ:myth about the Geshudan Horse, which is a metaphor about the true events, in which a earthquake destroyed the wall, allowing the goblin armies to attack the city] 
-	[ADJ:tale about the Balrog meeting the Black Knight. the Knight said "None shall pass!". the Balrog replied "ROOAAAAR!". then the Balrog cut the Knight's arms off with a sword of flame and Shadow, to which the Knight replied "Only a flesh wound!" then the Balrog cut his legs off. then the Knight bit the bridge apart, causing them both to fall to their deaths.]
-	[ADJ:Loki, the mother of monsters]
+	[ADJ:tale about the Balrog meeting the Black Knight. the Knight said "None shall pass!". the Balrog replied "ROOAAAAR!". then the Balrog cut the Knight's arms off with a sword of Flame and Shadow, to which the Knight replied "Only a flesh wound!" then the Balrog cut his legs off. then the Knight bit the bridge apart, causing them both to fall to their deaths.]
+	[ADJ:Loki, the mother of monsters]actually happened in some myths. sleipnir
 	[ADJ:Loki, the father of monsters]
 	[TILE:'/']	
 
@@ -40,7 +40,7 @@ descriptor_shape_p17
 	[NAME:forummer]
 	[WORD:CLEVER]
 	[ADJ:Pikachu17 the awe-inspiring]
-	[ADJ:Meph the Masterork-modding]
+	[ADJ:Meph the Masterwork-modding]
 	[ADJ:Gwolfski the stark-raving mad]
 	[ADJ:Ombragon the mighty]
 	[ADJ:Snowdwarf the cold]

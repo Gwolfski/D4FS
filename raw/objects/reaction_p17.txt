@@ -14,6 +14,7 @@ COVER_WOODEN_STAKE_WITH_GARLIC:takes a wooden stake and garlic, and makes a garl
 LOGPILE1_P17:moves one log to the logpile. meant to force them to move logs where they are needed.
 4WOODBLOCK_P17:turns a log into 4 blocks
 HAVE_IMPORTANT_STUFF_P17:civ reaction to insure having important stuff
+HAVE_REDSHIRT_DYE_P17:civ reaction to get red shirts.
 MAKE_TRANSPORTER_BATTERY:make a transporter battery. which is used in long-distance markets.
 MAKE_QUANTUM_BATTERY:make a quantum battery. which is used in quantum stockpiles
 MAKE_DRINKATRON:takes one bar of ELECTRONIC class, and one metal bar, and makes a Drinkatron 5000
@@ -207,9 +208,13 @@ MAKE GUITAR_P17:make a guitar from a log and some string
 	[PRODUCT:100:1:BARREL:NONE:PLANT_MAT:STANDARD_WOOD:WOOD]
 	[PRODUCT_TOKEN:barrel]
 	[PRODUCT:100:1:DRINK:NONE:PLANT_MAT:STRING_BEAN_P17:DRINK]
-	[PRODUCT_DIMENSION:150][PRODUCT_TO_CONTAINER:B]
+	[PRODUCT_DIMENSION:150][PRODUCT_TO_CONTAINER:barrel]
+
+[REACTION:HAVE_REDSHIRT_DYE_P17]civ reaction to get redshirt dye.
+	[PRODUCT:100:1:PLANT:NONE:PLANT_MAT:VULCAN_DYE_P17:STRUCTURAL]
+
 =====FACTORY======
-[REACTION:MAKE_TRANSPORTER_BATTERY]
+[REACTION:MAKE_TRANSPORTER_BATTERY_CAPITALIST]
 	[NAME:make a transporter battery]
 	[BUILDING:FACTORY_P17:NONE]
 	

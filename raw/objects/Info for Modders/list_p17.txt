@@ -29,7 +29,7 @@ SUPERHERO:a good aligned powered citizen
 SUPERVILLAIN:a evil aligned powered citizen
 POKEMON:pokemon
 MILKER:milker
-DOMESTIC:creatures with COMMON_DOMESTIC
+DOMESTIC:creatures with COMMON_DOMESTIC. haven't added it my creatures yet.
 GRAZER:grazers
 INSECT:insects. probably includes BUG-type pokemon
 POKEMON:pokemon
