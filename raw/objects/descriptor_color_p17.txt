@@ -24,3 +24,8 @@ descriptor_color_p17
 	[NAME:empty]
 	[WORD:EMPTY]
 	[RGB:255:255:255]
+
+[COLOR:BALDING]
+	[NAME:balding]
+	[WORD:CLEAR]
+	[RGB:128:128:128]

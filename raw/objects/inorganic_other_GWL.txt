@@ -16,7 +16,7 @@ inorganic_other_GWL
 	[IS_CERAMIC]
 	[MATERIAL_VALUE:3]
 	[ABSORPTION:10]
-	[BLOCK_NAME:brick:pricks]
+	[BLOCK_NAME:brick:bricks]
 	[DISPLAY_UNGLAZED]
 	[NO_STONE_STOCKPILE]
 

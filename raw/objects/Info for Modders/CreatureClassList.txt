@@ -7,18 +7,18 @@ MAGIC_WEAK - Vulnerable to magic syndromes
 MAGIC_RESIST - Resistant to magic syndromes
 MAGIC_IMMUNE - Immune to magic syndromes
 
-====Pikachu17's classes====
-ALL:all creatures get this class
+====Pikachu17's classes====ALL:all creatures get this class
 INTELLIGENT:intelligent creatures.
 ORGANIC:organic creatures.
 INORGANIC: inorganic creatures, like bronze colossi
 HUMANOID:humanoid creatures.
-ANIMAL:animals. omragon invented this one, not me
+ANIMAL:animals. ombragon invented this one, not me
 PLANT:plantoids
 FEMALE:females, including castes
 MALE:males, including castes
 NO_GENDER:doesn't have a gender
 HAS_BLOOD:creatures that have blood.
+SOUL:not to be confused  with spirit, SOUL is for creatures that conceivably have one that could be stolen.
 DEMON:creatures that reside in the HFS
 GOOD:good creatures, includes creatures are good, not just creatures with GOOD.
 EVIL:evil creatures. includes creatures that are evil, not just creatures with EVIL.
@@ -33,6 +33,8 @@ VERMIN:vermin
 FISH_VERMIN:catchable vermin fish
 SHADOW:members of the shadow army.
 LIGHT:members of the light army.
+SUPERHERO:a good aligned powered citizen
+SUPERVILLAIN:a evil aligned powered citizen
 POKEMON:pokemon
 MILKER:milker
 DOMESTIC:creatures with COMMON_DOMESTIC

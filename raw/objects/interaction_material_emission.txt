@@ -1,7 +1,5 @@
 interaction_material_emission
-
 [OBJECT:INTERACTION] ## this one is so close to hardcoded there's no point in just rewriting it with different words
-
 [INTERACTION:MATERIAL_EMISSION]
 	[I_SOURCE:CREATURE_ACTION]
 	[I_TARGET:A:MATERIAL]
