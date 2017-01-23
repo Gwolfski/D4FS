@@ -1,2 +1,1 @@
-For almost [CONTEXT:NUMBER] years, I have stalked the land in search of game.
-I have been a hunter for [CONTEXT:NUMBER] years.
+I have hunted great beasts in [CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years.

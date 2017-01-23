@@ -9,7 +9,7 @@ PLANT:plantoids
 FEMALE:females, including castes
 MALE:males, including castes
 NO_GENDER:doesn't have a gender
-HAS_BLOOD:creatures that have blood.
+HAS_BLOOD:creatures that have blood. ichor is close enough. gasoline is not close enough.
 SOUL:not to be confused  with spirit, SOUL is for creatures that conceivably have one that could be stolen.
 DEMON:creatures that reside in the HFS
 GOOD:good creatures, includes creatures are good, not just creatures with GOOD.
@@ -29,7 +29,7 @@ SUPERHERO:a good aligned powered citizen
 SUPERVILLAIN:a evil aligned powered citizen
 POKEMON:pokemon
 MILKER:milker
-DOMESTIC:creatures with COMMON_DOMESTIC. haven't added it my creatures yet.
+DOMESTIC:creatures with COMMON_DOMESTIC. haven't added it to my creatures yet.
 GRAZER:grazers
 INSECT:insects. probably includes BUG-type pokemon
 POKEMON:pokemon
@@ -234,15 +234,18 @@ for some reason, the 14th creature in creature_fanciful_pikachu has skin, then r
 why this happens I have no idea. also happened to the the 9th creature in creature_p17, which was light rider. I then switched it so shadowseeker(which already has skin) is in 9th place, and light rider doesn't need leather.
 
 NOTES TO SELF, DO NOT LET OTHERS SEE
+specialized body_detail_plans
 tarrasque
 holy hand( or firing, most likely) grenade, to kill the bunny.
 make research for capitalists. include quantum stockpiles, atom smasher and crematory buildings
+clean junk reaction for those junk plants.
 plants VS. zombies plants
 zergs
 gardener civ.
 pokemon learning.
 more att ranges
-necromancer hive:turns bodies into necro-bees
+bob-ombs
+morgue building:takes a specific corpse, a weapon, and a coin, and puts them inside a coffin.
 
 interesting pokemon:
 additional eevees; glaceon, espreon(psychic),umbreon(dark), sylveon(fairy), and leafeon.

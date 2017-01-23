@@ -1,3 +1,1 @@
-I offered my skill in arms for [CONTEXT:NUMBER] years, and where has it gotten me?
-I have been a soldier-of-fortune for [CONTEXT:NUMBER] years.
-I have been a man-at-arms for [CONTEXT:NUMBER] years.
+I have sought fortune and glory by offering my skill at arms in [CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years.

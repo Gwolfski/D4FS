@@ -1,10 +1,1 @@
-you know [CONTEXT:HIST_FIG:PRO_SUB]? [PRO_SUB] is my [CONTEXT:FAMILY_RELATIONSHIP]
-[CONTEXT:HIST_FIG:PRO_SUB] has always been jealous of me
-[CONTEXT:HIST_FIG:PRO_SUB] has magical powers
-[CONTEXT:HIST_FIG:PRO_SUB] has been going out of town recently
-[CONTEXT:HIST_FIG:PRO_SUB] should not even be alive today
-[CONTEXT:HIST_FIG:PRO_SUB] should not have to suffer like [CONTEXT:HIST_FIG:PRO_SUB] does
-[CONTEXT:HIST_FIG:PRO_SUB] is the smartest person I know
-[CONTEXT:HIST_FIG:PRO_SUB] always sees far ahead
-[CONTEXT:HIST_FIG:PRO_SUB] plays lovely music
-[CONTEXT:HIST_FIG:PRO_SUB] likes to tend the fields when no one is looking
+[CONTEXT:HIST_FIG:PRO_SUB] is also my [CONTEXT:FAMILY_RELATIONSHIP]

@@ -482,7 +482,7 @@ ARMOK:Armok's personal troops, the armokians.
 		[REQUIRED_BEDROOM:100]
 		[REQUIRED_DINING:100]
 	[POSITION:CAPTAIN_OF_THE_GUARD]
-		[NAME:chief of secuirity:chiefs of secuirity]
+		[NAME:chief of security:cheifs of security]
 		[SITE]
 		[NUMBER:1]
 		[RESPONSIBILITY:LAW_ENFORCEMENT]

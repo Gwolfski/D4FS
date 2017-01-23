@@ -1,2 +1,1 @@
-I live the life of a hunter.  My favorite place is [CONTEXT:PLACE:TRANS_NAME].
-I have hunted the animals in [CONTEXT:PLACE:TRANS_NAME] for many years.
+I hunt great beasts in [CONTEXT:PLACE:TRANS_NAME].

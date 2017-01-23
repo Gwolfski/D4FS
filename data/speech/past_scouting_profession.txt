@@ -1,3 +1,2 @@
-I scouted dangerous regions for [CONTEXT:NUMBER] years.
-I am a retired spy. I was a spy for [CONTEXT:NUMBER] years.
-I was once scout at the fore-front of the War
+At one time, I was a scout.
+For [CONTEXT:NUMBER] of my years, I was a scout.

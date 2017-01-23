@@ -611,6 +611,9 @@ body_p17
 [BODYGLOSS:PAW:foot:paw:feet:paws]
 
 [BODYGLOSS:MAW:mouth:maw:mouths:maws]
+
+[BODYGLOSS:INSECT_BODY:upper body:thorax:upper bodies:thoraxes:lower body:abdomen:lower bodies:abdomens]
+[BODYGLOSS:ROBOT:brain:control module:brains:control modules:heart:reactor:hearts:reactors:eye:visual processor:eyes:visual processors:nerve:wire:nerves:wires:artery:fuel pipe:arteries:fuel pipes]
 ===Complete bodies====
 [BODY:CANNON_P17]
 	[BP:MF:wheel:STP][CATEGORY:FOOT]
@@ -752,8 +755,6 @@ body_p17
 [BODY:LEVIATHON_P17]
 	[BP:1UB:1st section:STP][UPPERBODY][CATEGORY:BODY_UPPER]
 		[DEFAULT_RELSIZE:1500]
-	[BP:HEAD:head:STP][CON:1UB][HEAD][CATEGORY:HEAD]
-		[DEFAULT_RELSIZE:90]
 	[BP:2UB:2nd section:STP][UPPERBODY][CATEGORY:BODY][CON:1UB][LIMB]
 		[DEFAULT_RELSIZE:1500]
 	[BP:3UB:3rd section:STP][UPPERBODY][LOWERBODY][CATEGORY:BODY][CON:2UB]
@@ -762,5 +763,7 @@ body_p17
 		[DEFAULT_RELSIZE:1500]
 	[BP:5LB:5th section:STP][LOWERBODY][CATEGORY:BODY][CON:4LB][LIMB]
 		[DEFAULT_RELSIZE:1500]
+	[BP:HEAD:head:STP][CON:1UB][HEAD][CATEGORY:HEAD]
+		[DEFAULT_RELSIZE:90]
 	[BP:TAIL:tail:STP][CON:5LB][CATEGORY:TAIL]
 		[DEFAULT_RELSIZE:250]
