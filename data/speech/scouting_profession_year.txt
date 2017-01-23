@@ -1,5 +1,1 @@
-I have been a scout for [CONTEXT:NUMBER] years.
-I have patrolled [CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] years.
-I have scouted [CONTEXT:PLACE:TRANS_NAME] every day for [CONTEXT:NUMBER] years of my life.
-I have scouted dangerous regions for [CONTEXT:NUMBER] years.
-I am a retired spy. I was a spy for [CONTEXT:NUMBER] years.
+I have been scouting the area around [CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years.

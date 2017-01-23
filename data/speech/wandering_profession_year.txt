@@ -1,2 +1,1 @@
-I have been a explorer for [CONTEXT:NUMBER] years. I have especially enjoyed exploring [CONTEXT:PLACE:TRANS_NAME].
-I have travelled the world for [CONTEXT:NUMBER] years.
+I have wandered [CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years.

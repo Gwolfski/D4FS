@@ -1,4 +1,1 @@
-I once made a living as a [CONTEXT:UNIT_NAME].
-My past is not that important.
-I would rather not talk of the past.
-I was once a [CONTEXT:UNIT_NAME]. but now I am not.
+I was once a [CONTEXT:UNIT_NAME].
