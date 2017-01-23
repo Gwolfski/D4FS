@@ -10,7 +10,7 @@ This project is a mixture of a [modding project](http://dwarffortresswiki.org/in
 The Players simply download the current version of the master branch of this mod, and play it. They then write about the happenings in their game, about what they found interesting, if they found bugs, or anything, really. They may also post screenshots alongside the story.
 Again, please note that is not a hard prerequisite. You may enjoy the game without our knowledge, too, obviously.
 
-The Modders, on the other hand, add more to the project by creating new creatures, stones, buildings, items, etc. It is beneficial for them to know about basic Git(hub) usage, however it is not required. If they had created something, but cannot use Git(hub), they may ask [Cerapter](http://www.bay12forums.com/smf/index.php?action=profile;u=107094) on the Bay12Forums, [LordCerapter](https://github.com/LordCerapter) on GitHub (both being the same person), or any modders currently participating in the project, and they will upload in their stead.
+The Modders, on the other hand, add more to the project by creating new creatures, stones, buildings, items, etc. It is beneficial for them to know about basic Git(hub) usage, however it is not required. If they had created something, but cannot use Git(hub), they may ask [Gwolfski](http://www.bay12forums.com/smf/index.php?action=profile;area=summary;u=110835) on the Bay12Forums, [Gwolfski](https://github.com/Gwolfski) on GitHub (both being the same person), or any modders currently participating in the project, and they will upload in their stead.
 
 Navigate to the project's thread [with this link][3].
 
@@ -20,7 +20,7 @@ Navigate to the project's thread [with this link][3].
 (This guide assumes you can download files, unpackage packaged files, launch executables, and can do basic file modifications, such as copying, pasting, and deleting.)
 
 1. Obtain the [game][1].
-2. Download the Project's latest version from the [release menu](https://github.com/LordCerapter/D4FS/releases).
+2. Download the Project's latest version from the [release menu](https://github.com/Gwolfski/D4FS/releases).
 3. Back up the game's original files.
 4. In the game's files, remove the `raw` folder.
 5. Move, or copy and paste the downloaded Project's `data` and `raw` folders into the game's folder, where the original folders used to be.
@@ -35,7 +35,7 @@ Additionally:
 ---
 
 ## Modders' Guide
-We have several standards that we require you to follow. These are not overly tyrannical ones (at least, we hope so), but rather, are implemented so that the RAWs (and DATA files) are easy to read and modify. You may check these on the Project's [wiki](https://github.com/LordCerapter/D4FS/wiki).
+We have several standards that we require you to follow. These are not overly tyrannical ones (at least, we hope so), but rather, are implemented so that the RAWs (and DATA files) are easy to read and modify. You may check these on the Project's [wiki](https://github.com/Gwolfski/D4FS/wiki).
 
 ### If you do not desire to use Git:
 
@@ -99,6 +99,7 @@ If you are making larger modifications, you may also want to make a branch.
 + The ORIGINAL participants of the very first project. This could not have happened without you guys. Special thanks to:
   + [Halfling](http://www.bay12forums.com/smf/index.php?action=profile;u=93250), the first project's starter, and the guy whose RAWs we are still using up to this day.
   + [vyznev](http://www.bay12forums.com/smf/index.php?action=profile;u=21867), who has created various utilities to ease DATA file modification and to check RAW file integrity.
+  +Also LordCerapter / Cerapter
 
 [1]: http://www.bay12games.com/dwarves/
 [2]: http://www.bay12forums.com/smf/index.php
