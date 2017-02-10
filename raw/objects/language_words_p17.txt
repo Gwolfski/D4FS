@@ -1884,6 +1884,15 @@ NAME
 		[REAR_COMPOUND_NOUN_PLUR]
 
 Pikachu17's words mostly just to try and get this off the ground
+[WORD:BROADSWORD]
+	[NOUN:battleaxe:battleaxes]
+		[THE_NOUN_SING]
+		[THE_COMPOUND_NOUN_SING]
+		[FRONT_COMPOUND_NOUN_SING]
+		[REAR_COMPOUND_NOUN_SING]
+		[OF_NOUN_PLUR]
+		[REAR_COMPOUND_NOUN_PLUR]
+
 [WORD:SHADOW]
 	[NOUN:shadow:shadows]
 		[FRONT_COMPOUND_NOUN_SING]

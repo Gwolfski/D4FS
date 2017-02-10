@@ -218,7 +218,7 @@ digger, weapon,ammo,armor,helm,gloves,shoes,pants,shield,siegeammo,trapcomp,toy,
 [ATTACK:EDGE:1:10:jab:jabs:NO_SUB:5000]
 	[ATTACK_PREPARE_AND_RECOVER:3:4]
 
-[ITEM_WEAPON:BOW_P17]
+[ITEM_WEAPON:LONGBOW_P17]
 [NAME:longbow:longbows]
 [SIZE:300]
 [SKILL:MACE]
@@ -354,7 +354,7 @@ digger, weapon,ammo,armor,helm,gloves,shoes,pants,shield,siegeammo,trapcomp,toy,
 [UBSTEP:MAX]
 [LBSTEP:MAX]
 [LAYER:ARMOR]
-[COVERAGE:100]
+[COVERAGE:1000]
 [LAYER_SIZE:20]
 [LAYER_PERMIT:60]
 [MATERIAL_SIZE:6]
@@ -519,7 +519,7 @@ SHAPED
 
 
 [ITEM_TOOL:BIO_FACTORY]
-[NAME:bio-factory:bio-facories]
+[NAME:bio-factory:bio-factories]
 [VALUE:10]
 [METAL_MAT]
 [TOOL_USE:HIVE]

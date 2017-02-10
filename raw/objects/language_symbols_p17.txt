@@ -266,6 +266,8 @@ based on language_symbols_halfling from the first from scratch
 	[S_WORD:ROAD]
 [SYMBOL:NAME_WAR]
 	[S_WORD:WAR]
+	[S_WORD:BROADSWORD]
+
 [SYMBOL:NAME_BATTLE]
 	[S_WORD:BATTLE]
 [SYMBOL:NAME_SIEGE]

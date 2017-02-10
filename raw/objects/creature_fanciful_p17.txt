@@ -94,6 +94,9 @@ creature_fanciful_p17
 	[PREFSTRING:being a lie][PREFSTRING:tasty flavor][PREFSTRING:frosting]
 
 [CREATURE:DWARF_P17]
+	[USE_MATERIAL_TEMPLATE:SKIN:SKIN_TEMPLATE_P17]to make this doesn't crash
+	[USE_MATERIAL_TEMPLATE:LEATHER:LEATHER_TEMPLATE_P17]
+	[USE_MATERIAL_TEMPLATE:PARCHMENT:PARCHMENT_TEMPLATE_P17]
 	[DESCRIPTION:A short, sturdy creature fond of drink and industry.]
 	[NAME:dwarf:dwarves:dwarven]
 	[CASTE_NAME:dwarf:dwarves:dwarven]

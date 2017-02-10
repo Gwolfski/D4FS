@@ -260,6 +260,7 @@ WILD
 NAME
 	[T_WORD:ROAD:zealo]
 	[T_WORD:WAR:peace]
+	[T_WORD:BROADSWORD:peace]
 	[T_WORD:BATTLE:valkrie]
 	[T_WORD:SIEGE:seil]
 	[T_WORD:CAVERN:cavy]
