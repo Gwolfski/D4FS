@@ -1,5 +1,5 @@
 # Dwarf 4tress From Scratch
-### Download: from the [release menu](https://github.com/Gwolfski/D4FS/releases).
+### Download: from the [release menu](https://github.com/LordCerapter/D4FS/releases).
 
 Dwarf 4tress From Scratch (pronounced like 'Dwarf Fortress From Scratch') is the fourth iteration of the community Bay12Forums project, 'Dwarf Fortress From Scratch', based on the video game 'Slaves to Armok: God of Blood - Chapter II: Dwarf Fortress', or, as more commonly known, 'Dwarf Fortress'.
 
@@ -10,7 +10,7 @@ This project is a mixture of a [modding project](http://dwarffortresswiki.org/in
 The Players simply download the current version of the master branch of this mod, and play it. They then write about the happenings in their game, about what they found interesting, if they found bugs, or anything, really. They may also post screenshots alongside the story.
 Again, please note that is not a hard prerequisite. You may enjoy the game without our knowledge, too, obviously.
 
-The Modders, on the other hand, add more to the project by creating new creatures, stones, buildings, items, etc. It is beneficial for them to know about basic Git(hub) usage, however it is not required. If they had created something, but cannot use Git(hub), they may ask [Gwolfski](http://www.bay12forums.com/smf/index.php?action=profile;area=summary;u=110835) on the Bay12Forums, [Gwolfski](https://github.com/Gwolfski) on GitHub (both being the same person), or any modders currently participating in the project, and they will upload in their stead.
+The Modders, on the other hand, add more to the project by creating new creatures, stones, buildings, items, etc. It is beneficial for them to know about basic Git(hub) usage, however it is not required. If they had created something, but cannot use Git(hub), they may ask [Cerapter](http://www.bay12forums.com/smf/index.php?action=profile;u=107094) on the Bay12Forums, [LordCerapter](https://github.com/LordCerapter) on GitHub (both being the same person), or any modders currently participating in the project, and they will upload in their stead.
 
 Navigate to the project's thread [with this link][3].
 
@@ -46,12 +46,12 @@ We have several standards that we require you to follow. These are not overly ty
 4. Send your package to either:
   + [Gwolfski](http://www.bay12forums.com/smf/index.php?action=profile;u=110835) on the Bay12Forums.
   + [Gwolfski](https://github.com/Gwolfski).
-  + [Any contributor](https://github.com/Gwolfski/D4FS/graphs/contributors).
+  + [Any contributor](https://github.com/LordCerapter/D4FS/graphs/contributors).
   + [Any Modder][3] in the forum thread. (Assuming they know how to use Git.)
 5. We will deal with the rest.
 
 ### If you are using Github:
-**Note**: alert [Gwolfski](http://www.bay12forums.com/smf/index.php?action=profile;u=110835) (or [Gwolfski](https://github.com/Gwolfski)) to be made a collaborator in the project, so that you could make branches instead of having to fork the project everytime you want to make a modificiation.
+**Note**: alert [Gwolfski](http://www.bay12forums.com/smf/index.php?action=profile;u=110835) or [Gwolfski](https://github.com/Gwolfski) to be made a collaborator in the project, so that you could make branches instead of having to fork the project everytime you want to make a modificiation.
 
 1. Fork the project onto your own Github page.
   + You may perform this by navigating to the Project's Github page (you are most likely here), and pressing the 'Fork' button on the upper right corner.
@@ -95,12 +95,14 @@ If you are making larger modifications, you may also want to make a branch.
 ---
 
 ## Credits
++ Lord Cerpater for starting v 4
 + The original participants of the previous three projects.
 + The ORIGINAL participants of the very first project. This could not have happened without you guys. Special thanks to:
   + [Halfling](http://www.bay12forums.com/smf/index.php?action=profile;u=93250), the first project's starter, and the guy whose RAWs we are still using up to this day.
   + [vyznev](http://www.bay12forums.com/smf/index.php?action=profile;u=21867), who has created various utilities to ease DATA file modification and to check RAW file integrity.
-  +Also LordCerapter / Cerapter
 
 [1]: http://www.bay12games.com/dwarves/
 [2]: http://www.bay12forums.com/smf/index.php
 [3]: http://www.bay12forums.com/smf/index.php?topic=158283.0 "The Project's Forum Thread"
+
+0
