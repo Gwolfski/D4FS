@@ -99,8 +99,10 @@ If you are making larger modifications, you may also want to make a branch.
 + The ORIGINAL participants of the very first project. This could not have happened without you guys. Special thanks to:
   + [Halfling](http://www.bay12forums.com/smf/index.php?action=profile;u=93250), the first project's starter, and the guy whose RAWs we are still using up to this day.
   + [vyznev](http://www.bay12forums.com/smf/index.php?action=profile;u=21867), who has created various utilities to ease DATA file modification and to check RAW file integrity.
-  +Also LordCerapter / Cerapter
+  + Also LordCerapter / Cerapter
 
 [1]: http://www.bay12games.com/dwarves/
 [2]: http://www.bay12forums.com/smf/index.php
 [3]: http://www.bay12forums.com/smf/index.php?topic=158283.0 "The Project's Forum Thread"
+
+0

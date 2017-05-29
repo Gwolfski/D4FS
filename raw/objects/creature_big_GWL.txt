@@ -1,9 +1,9 @@
 creature_big_GWL
-[OBJECT:CREATURE] required lots of things to make this actually work
+[OBJECT:CREATURE] required lots of things to make this actually work--thanks!
 /this is for big beasts, titans etc.
 
   [CREATURE:EVIL_TOAD_GWL]
-    [DESCRIPTION:A massive, deformed bulk of flesh milly resembling a toad]
+    [DESCRIPTION:A massive, deformed bulk of flesh mildly resembling a toad]
     [NAME:Evil Toad:Evil Toads:EvilToad]
 [CASTE_NAME:Evil Toad:Evil Toads:EvilToad]
 [CREATURE_TILE:84][COLOR:5:0:0]
