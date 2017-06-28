@@ -1,1 +1,0 @@
-slaves will start to haul, pick up items, and refuse to put them back down again.

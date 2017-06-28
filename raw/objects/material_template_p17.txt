@@ -264,7 +264,7 @@ material_template_p17
 	[BENDING_YIELD:15000]
 	[BENDING_FRACTURE:15000]
 	[BENDING_STRAIN_AT_YIELD:100]
-	A unitless measure for how sharp the edge is for combat purposes.33
+	A unitless measure for how sharp the edge is for combat purposes.
 	[BLOCK_NAME:brick:bricks]
 	[MAX_EDGE:1000]
 	Used for pressing oil into jugs -- anything greater than zero needs to be glazed first.
@@ -569,8 +569,8 @@ SWEAT:sweat
 	[BENDING_YIELD:15000]
 	[BENDING_FRACTURE:15000]
 	[BENDING_STRAIN_AT_YIELD:100]
-	[BLOCK_NAME:brick:bricks]
 	A unitless measure for how sharp the edge is for combat purposes.
+	[BLOCK_NAME:brick:bricks]
 	[MAX_EDGE:1000]
 	Used for pressing oil into jugs -- anything greater than zero needs to be glazed first.
 	[ABSORPTION:0]
@@ -1201,7 +1201,6 @@ SWEAT:sweat
 	[ITEMS_HARD][REACTION_CLASS:TOOTH][REACTION_CLASS:ORGANIC]
 
 [MATERIAL_TEMPLATE:EYE_TEMPLATE_P17]
-	[REACTION_CLASS:EYE][REACTION_CLASS:EYE ]
 	[STATE_COLOR:ALL_SOLID:WHITE]
 	[STATE_NAME:ALL_SOLID:eye tissue]
 	[STATE_ADJ:ALL_SOLID:eye tissue]
@@ -1250,7 +1249,7 @@ SWEAT:sweat
 	[MEAT_NAME:prepared:eye:eye]
 	[EDIBLE_VERMIN]
 	[EDIBLE_COOKED]
-[REACTION_CLASS:MEAT][REACTION_CLASS:EDIBLE][REACTION_CLASS:ORGANIC]
+	[REACTION_CLASS:MEAT][REACTION_CLASS:EDIBLE][REACTION_CLASS:ORGANIC]
 	[REACTION_CLASS:EYE]	
 
 [MATERIAL_TEMPLATE:NERVE_TEMPLATE_P17]

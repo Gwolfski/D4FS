@@ -1,6 +1,5 @@
 #CREATURE_CLASSES#
 ALL:all creatures get this class
-GENERAL_POISON:just like in vanilla.
 INTELLIGENT:intelligent creatures.
 ORGANIC:organic creatures.
 INORGANIC: inorganic creatures, like bronze colossi
