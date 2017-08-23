@@ -10,3 +10,4 @@ Mjolnir
 Thor
 Zeus
 Blind Io
+Vulcan
