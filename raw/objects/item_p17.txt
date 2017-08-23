@@ -218,7 +218,7 @@ digger, weapon,ammo,armor,helm,gloves,shoes,pants,shield,siegeammo,trapcomp,toy,
 [ATTACK:EDGE:1:10:jab:jabs:NO_SUB:5000]
 	[ATTACK_PREPARE_AND_RECOVER:3:4]
 
-[ITEM_WEAPON:BOW_P17]
+[ITEM_WEAPON:LONGBOW_P17]
 [NAME:longbow:longbows]
 [SIZE:300]
 [SKILL:MACE]
@@ -354,7 +354,7 @@ digger, weapon,ammo,armor,helm,gloves,shoes,pants,shield,siegeammo,trapcomp,toy,
 [UBSTEP:MAX]
 [LBSTEP:MAX]
 [LAYER:ARMOR]
-[COVERAGE:100]
+[COVERAGE:1000]
 [LAYER_SIZE:20]
 [LAYER_PERMIT:60]
 [MATERIAL_SIZE:6]
@@ -476,6 +476,8 @@ SHAPED
 [METAL]
 [ATTACK:EDGE:4:1000:stab:stabs:NO_SUB:3000]
 	[ATTACK_PREPARE_AND_RECOVER:2:2]
+[ATTACK:BLUNT:4:1000:electrocute:electrocutes:NO_SUB:3000]
+	[ATTACK_PREPARE_AND_RECOVER:2:2]
 
 [ITEM_TOY:TOY_GOLEM_P17]
 [NAME:golem action figure:golom action figures]
@@ -490,7 +492,7 @@ SHAPED
 [HARD_MAT]
 
 [ITEM_TOY:TOY_DOLLAR_P17]
-[NAME:fake dollar:fake dollars]
+[NAME:counterfeight dollar:fake dollars]
 [HARD_MAT]
 
 [ITEM_TOY:TOY_MEETING_P17]
@@ -519,7 +521,7 @@ SHAPED
 
 
 [ITEM_TOOL:BIO_FACTORY]
-[NAME:bio-factory:bio-facories]
+[NAME:bio-factory:bio-factories]
 [VALUE:10]
 [METAL_MAT]
 [TOOL_USE:HIVE]
@@ -586,7 +588,7 @@ WOOD_MAT
 [TILE:'Q']
 [SIZE:300]
 [NO_DEFAULT_JOB]
-[DESCRIPTION:for use in building the long-distance market. vulcans can easily make one.]
+[DESCRIPTION:for use in building a portal to the interspacial market. vulcans can easily make one.]
 
 [ITEM_TOOL:DRINKATRON]
 [NAME:Drinkatron 5000:Drinkaton 5000s]
@@ -616,7 +618,7 @@ WOOD_MAT
 [SIZE:400000]
 [MATERIAL_SIZE:20]
 [CONTAINER_CAPACITY:500000]
-[ATTACK:EDGE:3:1600:fire phasers:fire phasers:NO_SUB:1000]
+[ATTACK:EDGE:3:16000:fire phasers:fire phasers:NO_SUB:10000]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_TOOL:ITEM_STARSHIP_P17]
@@ -630,7 +632,7 @@ WOOD_MAT
 [SIZE:4000000]
 [MATERIAL_SIZE:40]
 [CONTAINER_CAPACITY:5000000]
-[ATTACK:EDGE:5:10000:fires phasers:fire phasers:NO_SUB:1000]
+[ATTACK:EDGE:5:100000:fires phasers:fire phasers:NO_SUB:10000]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_TOOL:RESEARCH0_P17]
