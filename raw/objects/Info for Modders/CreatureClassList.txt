@@ -7,7 +7,8 @@ MAGIC_WEAK - Vulnerable to magic syndromes
 MAGIC_RESIST - Resistant to magic syndromes
 MAGIC_IMMUNE - Immune to magic syndromes
 
-====Pikachu17's classes====ALL:all creatures get this class
+====Pikachu17's classes====
+ALL:all creatures get this class
 INTELLIGENT:intelligent creatures.
 ORGANIC:organic creatures.
 INORGANIC: inorganic creatures, like bronze colossi
