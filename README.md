@@ -103,6 +103,6 @@ If you are making larger modifications, you may also want to make a branch.
 
 [1]: http://www.bay12games.com/dwarves/
 [2]: http://www.bay12forums.com/smf/index.php
-[3]: http://www.bay12forums.com/smf/index.php?topic=158283.0 "The Project's Forum Thread"
+[3]: http://www.bay12forums.com/smf/index.php?topic=160947.0 "The Project's Forum Thread"
 
 0
