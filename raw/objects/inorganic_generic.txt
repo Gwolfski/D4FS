@@ -2,7 +2,7 @@ inorganic_generic
 
 # Automatically generated, do not edit!
 # Source: addons/Generic/inorganic_generic.txt
-[OBJECT:INORGANIC]
+[OBJECT:INORGANIC_OFF]
 
 [INORGANIC:GENERIC_METAL]
 	[USE_MATERIAL_TEMPLATE:METAL_TEMPLATE]
