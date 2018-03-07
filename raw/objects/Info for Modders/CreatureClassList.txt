@@ -8,7 +8,8 @@ MAGIC_RESIST - Resistant to magic syndromes
 MAGIC_IMMUNE - Immune to magic syndromes
 
 ====Pikachu17's classes====
-ALL:all creatures get this classALL:all creatures get this class
+ALL:all creatures get this class
+GENERAL_POISON:just like in vanilla.
 INTELLIGENT:intelligent creatures.
 ORGANIC:organic creatures.
 INORGANIC: inorganic creatures, like bronze colossi
@@ -62,3 +63,5 @@ BUG:bug type pokemon
 FAIRY:fairy type pokemon.
 INSTA_IMMUNE: immune to insta-deaths. used on the killer rabbit.
 ZERG:a zerg
+PET_CAPITALIST:Capitalist automatically tame it.
+MECHANICAL_PET:Citizens, and other mechanically inclined civs can tame these.

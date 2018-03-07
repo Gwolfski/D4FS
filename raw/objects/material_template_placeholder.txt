@@ -1,24 +1,23 @@
-material_template_meh_GWL
+material_template_placeholder
 
 [OBJECT:MATERIAL_TEMPLATE]
-
-[MATERIAL_TEMPLATE:MEH_TEMPLATE]
+[MATERIAL_TEMPLATE:STONE_TEMPLATE_GWL]
 	These are the state names, adjectives and colors for the material.
-	[STATE_COLOR:ALL_SOLID:GREEN]
-	[STATE_NAME:ALL_SOLID:meh]
-	[STATE_ADJ:ALL_SOLID:mrh]
-	[STATE_COLOR:LIQUID:GREEN]
-	[STATE_NAME:LIQUID:molten meh]
-	[STATE_ADJ:LIQUID:molten meh]
-	[STATE_COLOR:GAS:GREEN]]
-	[STATE_NAME:GAS:boiling meh]
-	[STATE_ADJ:GAS:boiling meh]
+	[STATE_COLOR:ALL_SOLID:GRAY]
+	[STATE_NAME:ALL_SOLID:stone]
+	[STATE_ADJ:ALL_SOLID:stone]
+	[STATE_COLOR:LIQUID:ORANGE]
+	[STATE_NAME:LIQUID:magma]
+	[STATE_ADJ:LIQUID:magma]
+	[STATE_COLOR:GAS:ORANGE]
+	[STATE_NAME:GAS:boiling magma]
+	[STATE_ADJ:GAS:boiling magma]
 	[DISPLAY_COLOR:7:0:0]
 	The modifier used to all values involving the material.
 	[MATERIAL_VALUE:1]
 	Temperature information.
 	[SPEC_HEAT:800]
-	[IGNITE_POINT:14001]
+	[IGNITE_POINT:NONE]
 	[MELTING_POINT:11500]
 	[BOILING_POINT:14000]
 	[HEATDAM_POINT:NONE]
@@ -51,6 +50,7 @@ material_template_meh_GWL
 	[BENDING_YIELD:15000]
 	[BENDING_FRACTURE:15000]
 	[BENDING_STRAIN_AT_YIELD:100]
+	[BLOCK_NAME:brick:bricks]
 	A unitless measure for how sharp the edge is for combat purposes.
 	[MAX_EDGE:1000]
 	Used for pressing oil into jugs -- anything greater than zero needs to be glazed first.
@@ -59,5 +59,4 @@ material_template_meh_GWL
 	[ITEMS_HARD]
 	[ITEMS_QUERN]
 	[REACTION_CLASS:CAN_GLAZE]
-	[REACTION_CLASS:IS_STONE]
-	[REACTION_CLASS:INORGANIC]PIKAADD
+	[REACTION_CLASS:IS_STONE][REACTION_CLASS:INORGANIC]
