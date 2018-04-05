@@ -1,6 +1,6 @@
-#CREATURE_CLASSES#
+CREATURE_CLASSES#
 ALL:all creatures get this class
-GENERAL_POISON: just like in vanilla
+GENERAL_POISON:just like in vanilla.
 INTELLIGENT:intelligent creatures.
 ORGANIC:organic creatures.
 INORGANIC: inorganic creatures, like bronze colossi
@@ -54,6 +54,9 @@ BUG:bug type pokemon
 FAIRY:fairy type pokemon.
 INSTA_IMMUNE: immune to insta-deaths. used on the killer rabbit.
 ZERG:a zerg
+PET_CAPITALIST:Capitalist automatically tame it.
+PET_CITIZEN:Citizens automatically tame it.
+MECHANICAL_PET:Citizens, and other mechanically inclined civs can tame these.
 
 #REACTION_CLASSES#
 STONE:stone, obviously
@@ -134,9 +137,10 @@ ATTACK:the pseidopods on the slime.
 TAN_MAT:just like in vanilla
 PARCHMENT_MAT:just like in vanilla
 DRINK_MAT:just like in vanilla
+JUICE_MAT:get juice, similiar to DRINK_MAT
 SYRUP_MAT:you can get this syrup from logs that have this.
 STONE_DRINK:you can brew this drink from boulders that have it.
-CAULDRON_MAT:you can get this potion from stuff it's brewed. the item doesn't need CAULDRON_MAT to be accepted by the reaction.
+CAULDRON_MAT:you can get this potion from stuff it has brewed. the item doesn't need CAULDRON_MAT to be accepted by the reaction.
 BREAD_MAT:put on flour, to turn into bread.
 ====SYN IDENTIFIER===
 VENOM:poisons and venoms.
@@ -234,19 +238,25 @@ for some reason, the 14th creature in creature_fanciful_pikachu has skin, then r
 [USE_MATERIAL_TEMPLATE:PARCHMENT:PARCHMENT_TEMPLATE_P17]
 why this happens I have no idea. also happened to the the 9th creature in creature_p17, which was light rider. I then switched it so shadowseeker(which already has skin) is in 9th place, and light rider doesn't need leather.
 
+
 NOTES TO SELF, DO NOT LET OTHERS SEE
+Vulcan pets.
+Change capitalist castes.
+Acropelter:Savage baboon-like animal with many elbows. Throws sticks at lighting speed.
 specialized body_detail_plans
 tarrasque
 holy hand( or firing, most likely) grenade, to kill the bunny.
-make research for capitalists. include quantum stockpiles, atom smasher and crematory buildings
-clean junk reaction for those junk plants.
 plants VS. zombies plants
 zergs
 gardener civ.
 pokemon learning.
 more att ranges
 bob-ombs
-morgue building:takes a specific corpse, a weapon, and a coin, and puts them inside a coffin.
+Elder scholar:It looked for knowledge not known to man. It found it.
+Sectopod:From X-com
+Grues:use cave adaption.
+Clerics:
+Sciopod:Old Dwarven for "Shade Foot," these relatively peaceful creatures were first recorded in around B.F. 77 by the Dwarven historian Urist the Elder. They were said to live in the Glorious Plains and were described as small, pale, humanlike creatures--but with only one leg and a giant foot.
 
 interesting pokemon:
 additional eevees; glaceon, espreon(psychic),umbreon(dark), sylveon(fairy), and leafeon.
